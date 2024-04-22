@@ -1,0 +1,10 @@
+﻿Date,Zip,Country,OrderID,OrderLines
+2017-11-15,3293,Australia,122844,"[{""ProductID"":1139,""Date"":""2017-11-15"",""Units"":1,""Revenue"":671.9475,""OrderLine"":1}]"
+2017-11-15,4362,Australia,123119,"[{""ProductID"":495,""Date"":""2017-11-15"",""Units"":5,""Revenue"":2887.5,""OrderLine"":1},{""ProductID"":2331,""Date"":""2017-11-15"",""Units"":1,""Revenue"":540.6975,""OrderLine"":2}]"
+2017-11-15,4742,Australia,123207,"[{""ProductID"":609,""Date"":""2017-11-15"",""Units"":1,""Revenue"":802.2,""OrderLine"":1},{""ProductID"":512,""Date"":""2017-11-15"",""Units"":1,""Revenue"":230.7375,""OrderLine"":2},{""ProductID"":2223,""Date"":""2017-11-15"",""Units"":1,""Revenue"":246.6975,""OrderLine"":3},{""ProductID"":785,""Date"":""2017-11-15"",""Units"":1,""Revenue"":68.1975,""OrderLine"":4},{""ProductID"":606,""Date"":""2017-11-15"",""Units"":1,""Revenue"":314.7375,""OrderLine"":5}]"
+2017-11-15,3371,Australia,122863,"[{""ProductID"":645,""Date"":""2017-11-15"",""Units"":1,""Revenue"":706.125,""OrderLine"":1},{""ProductID"":1836,""Date"":""2017-11-15"",""Units"":1,""Revenue"":143.7975,""OrderLine"":2},{""ProductID"":964,""Date"":""2017-11-15"",""Units"":1,""Revenue"":325.4475,""OrderLine"":3}]"
+2017-11-15,3110,Australia,122773,"[{""ProductID"":443,""Date"":""2017-11-15"",""Units"":1,""Revenue"":799.05,""OrderLine"":1},{""ProductID"":396,""Date"":""2017-11-15"",""Units"":1,""Revenue"":865.725,""OrderLine"":2},{""ProductID"":2331,""Date"":""2017-11-15"",""Units"":1,""Revenue"":540.6975,""OrderLine"":3}]"
+2017-11-15,3134,Australia,122784,"[{""ProductID"":631,""Date"":""2017-11-15"",""Units"":1,""Revenue"":346.2375,""OrderLine"":1}]"
+2017-11-15,3597,Australia,122930,"[{""ProductID"":400,""Date"":""2017-11-15"",""Units"":2,""Revenue"":1378.65,""OrderLine"":1}]"
+2017-11-15,4700,Australia,123188,"[{""ProductID"":475,""Date"":""2017-11-15"",""Units"":1,""Revenue"":978.075,""OrderLine"":1}]"
+2017-11-15,3752,Australia,122974,"[{""ProductID"":676,""Date"":""2017-11-15"",""Units"":1,""Revenue"":808.2375,""OrderLine"":1}]"

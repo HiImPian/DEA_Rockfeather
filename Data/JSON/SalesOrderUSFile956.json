@@ -1,0 +1,38 @@
+﻿[
+    {
+        "Date": "2016-12-15",
+        "Zip": "46181",
+        "OrderID": 54382,
+        "OrderLines": "[{\"ProductID\":2240,\"Date\":\"2016-12-15\",\"Units\":1,\"Revenue\":86.5725,\"OrderLine\":1},{\"ProductID\":2407,\"Date\":\"2016-12-15\",\"Units\":1,\"Revenue\":73.4475,\"OrderLine\":2}]"
+    },
+    {
+        "Date": "2016-12-15",
+        "Zip": "56063",
+        "OrderID": 54900,
+        "OrderLines": "[{\"ProductID\":993,\"Date\":\"2016-12-15\",\"Units\":1,\"Revenue\":330.6975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2016-12-15",
+        "Zip": "37922",
+        "OrderID": 54019,
+        "OrderLines": "[{\"ProductID\":2279,\"Date\":\"2016-12-15\",\"Units\":2,\"Revenue\":330.645,\"OrderLine\":1},{\"ProductID\":740,\"Date\":\"2016-12-15\",\"Units\":1,\"Revenue\":173.1975,\"OrderLine\":2},{\"ProductID\":768,\"Date\":\"2016-12-15\",\"Units\":1,\"Revenue\":104.9475,\"OrderLine\":3},{\"ProductID\":785,\"Date\":\"2016-12-15\",\"Units\":1,\"Revenue\":68.1975,\"OrderLine\":4}]"
+    },
+    {
+        "Date": "2016-12-15",
+        "Zip": "37779",
+        "OrderID": 53990,
+        "OrderLines": "[{\"ProductID\":1975,\"Date\":\"2016-12-15\",\"Units\":1,\"Revenue\":55.0725,\"OrderLine\":1},{\"ProductID\":1974,\"Date\":\"2016-12-15\",\"Units\":1,\"Revenue\":55.0725,\"OrderLine\":2},{\"ProductID\":2204,\"Date\":\"2016-12-15\",\"Units\":1,\"Revenue\":157.4475,\"OrderLine\":3}]"
+    },
+    {
+        "Date": "2016-12-15",
+        "Zip": "39475",
+        "OrderID": 54150,
+        "OrderLines": "[{\"ProductID\":768,\"Date\":\"2016-12-15\",\"Units\":1,\"Revenue\":104.9475,\"OrderLine\":1},{\"ProductID\":2295,\"Date\":\"2016-12-15\",\"Units\":1,\"Revenue\":845.1975,\"OrderLine\":2},{\"ProductID\":785,\"Date\":\"2016-12-15\",\"Units\":1,\"Revenue\":68.1975,\"OrderLine\":3}]"
+    },
+    {
+        "Date": "2016-12-15",
+        "Zip": "38128",
+        "OrderID": 54048,
+        "OrderLines": "[{\"ProductID\":2255,\"Date\":\"2016-12-15\",\"Units\":1,\"Revenue\":57.6975,\"OrderLine\":1}]"
+    }
+]

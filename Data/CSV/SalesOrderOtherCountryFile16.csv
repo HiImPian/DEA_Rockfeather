@@ -1,0 +1,10 @@
+﻿Date,Zip,Country,OrderID,OrderLines
+2023-11-30,771-1271,Japan,899984,"[{""ProductID"":2380,""Date"":""2023-11-30"",""Units"":1,""Revenue"":304.4475,""OrderLine"":1}]"
+2023-11-30,742-1504,Japan,899897,"[{""ProductID"":1175,""Date"":""2023-11-30"",""Units"":1,""Revenue"":603.6975,""OrderLine"":1},{""ProductID"":976,""Date"":""2023-11-30"",""Units"":1,""Revenue"":346.4475,""OrderLine"":2}]"
+2023-11-30,6487,Australia,899584,"[{""ProductID"":977,""Date"":""2023-11-30"",""Units"":1,""Revenue"":509.1975,""OrderLine"":1}]"
+2023-11-30,7050,Australia,899675,"[{""ProductID"":1170,""Date"":""2023-11-30"",""Units"":1,""Revenue"":467.1975,""OrderLine"":1},{""ProductID"":2224,""Date"":""2023-11-30"",""Units"":1,""Revenue"":60.3225,""OrderLine"":2},{""ProductID"":2389,""Date"":""2023-11-30"",""Units"":1,""Revenue"":812.7,""OrderLine"":3},{""ProductID"":2055,""Date"":""2023-11-30"",""Units"":1,""Revenue"":582.6975,""OrderLine"":4}]"
+2023-11-30,4022,Australia,899075,"[{""ProductID"":2090,""Date"":""2023-11-30"",""Units"":1,""Revenue"":356.9475,""OrderLine"":1},{""ProductID"":2073,""Date"":""2023-11-30"",""Units"":1,""Revenue"":356.9475,""OrderLine"":2}]"
+2023-11-30,3175,Australia,898751,"[{""ProductID"":2394,""Date"":""2023-11-30"",""Units"":1,""Revenue"":131.1975,""OrderLine"":1}]"
+2023-11-30,3971,Australia,899055,"[{""ProductID"":735,""Date"":""2023-11-30"",""Units"":1,""Revenue"":377.9475,""OrderLine"":1},{""ProductID"":736,""Date"":""2023-11-30"",""Units"":1,""Revenue"":377.9475,""OrderLine"":2}]"
+2023-11-30,3719,Australia,898953,"[{""ProductID"":2055,""Date"":""2023-11-30"",""Units"":1,""Revenue"":582.6975,""OrderLine"":1},{""ProductID"":1213,""Date"":""2023-11-30"",""Units"":1,""Revenue"":503.9475,""OrderLine"":2}]"
+2023-11-30,3930,Australia,899036,"[{""ProductID"":1124,""Date"":""2023-11-30"",""Units"":1,""Revenue"":682.4475,""OrderLine"":1},{""ProductID"":777,""Date"":""2023-11-30"",""Units"":1,""Revenue"":121.7475,""OrderLine"":2},{""ProductID"":778,""Date"":""2023-11-30"",""Units"":1,""Revenue"":121.7475,""OrderLine"":3}]"

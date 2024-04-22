@@ -1,0 +1,10 @@
+﻿Date,Zip,Country,OrderID,OrderLines
+2020-09-29,920-0062,Japan,466313,"[{""ProductID"":2234,""Date"":""2020-09-29"",""Units"":1,""Revenue"":70.8225,""OrderLine"":1},{""ProductID"":2235,""Date"":""2020-09-29"",""Units"":1,""Revenue"":70.8225,""OrderLine"":2}]"
+2020-09-29,7580,Mexico,466364,"[{""ProductID"":2396,""Date"":""2020-09-29"",""Units"":1,""Revenue"":89.2,""OrderLine"":1},{""ProductID"":734,""Date"":""2020-09-29"",""Units"":1,""Revenue"":341.2,""OrderLine"":2}]"
+2020-09-30,2371,Australia,466645,"[{""ProductID"":2212,""Date"":""2020-09-30"",""Units"":1,""Revenue"":89.1975,""OrderLine"":1},{""ProductID"":2235,""Date"":""2020-09-30"",""Units"":1,""Revenue"":70.8225,""OrderLine"":2},{""ProductID"":2213,""Date"":""2020-09-30"",""Units"":1,""Revenue"":89.1975,""OrderLine"":3},{""ProductID"":2223,""Date"":""2020-09-30"",""Units"":1,""Revenue"":225.6975,""OrderLine"":4}]"
+2020-09-30,3279,Australia,466903,"[{""ProductID"":2064,""Date"":""2020-09-30"",""Units"":1,""Revenue"":496.0725,""OrderLine"":1},{""ProductID"":964,""Date"":""2020-09-30"",""Units"":1,""Revenue"":335.9475,""OrderLine"":2}]"
+2020-09-28,7116,Australia,465883,"[{""ProductID"":2026,""Date"":""2020-09-28"",""Units"":1,""Revenue"":367.4475,""OrderLine"":1}]"
+2020-09-30,3518,Australia,466949,"[{""ProductID"":2252,""Date"":""2020-09-30"",""Units"":1,""Revenue"":136.4475,""OrderLine"":1}]"
+2020-09-29,22303,Germany,466275,"[{""ProductID"":1000,""Date"":""2020-09-29"",""Units"":1,""Revenue"":89.2,""OrderLine"":1}]"
+2020-09-29,2550,Australia,466067,"[{""ProductID"":632,""Date"":""2020-09-29"",""Units"":1,""Revenue"":403.725,""OrderLine"":1}]"
+2020-09-30,1025,Australia,466412,"[{""ProductID"":269,""Date"":""2020-09-30"",""Units"":1,""Revenue"":451.2375,""OrderLine"":1},{""ProductID"":1963,""Date"":""2020-09-30"",""Units"":1,""Revenue"":149.5725,""OrderLine"":2},{""ProductID"":1962,""Date"":""2020-09-30"",""Units"":1,""Revenue"":149.5725,""OrderLine"":3},{""ProductID"":472,""Date"":""2020-09-30"",""Units"":1,""Revenue"":961.275,""OrderLine"":4},{""ProductID"":2045,""Date"":""2020-09-30"",""Units"":1,""Revenue"":419.9475,""OrderLine"":5}]"

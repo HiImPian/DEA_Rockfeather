@@ -1,0 +1,10 @@
+﻿Date,Zip,Country,OrderID,OrderLines
+2023-12-14,4035,Australia,904761,"[{""ProductID"":524,""Date"":""2023-12-14"",""Units"":1,""Revenue"":110.145,""OrderLine"":1},{""ProductID"":525,""Date"":""2023-12-14"",""Units"":1,""Revenue"":110.145,""OrderLine"":2},{""ProductID"":526,""Date"":""2023-12-14"",""Units"":1,""Revenue"":110.145,""OrderLine"":3},{""ProductID"":527,""Date"":""2023-12-14"",""Units"":1,""Revenue"":110.145,""OrderLine"":4},{""ProductID"":528,""Date"":""2023-12-14"",""Units"":1,""Revenue"":110.145,""OrderLine"":5},{""ProductID"":529,""Date"":""2023-12-14"",""Units"":1,""Revenue"":110.145,""OrderLine"":6},{""ProductID"":532,""Date"":""2023-12-14"",""Units"":1,""Revenue"":110.145,""OrderLine"":7},{""ProductID"":533,""Date"":""2023-12-14"",""Units"":1,""Revenue"":110.145,""OrderLine"":8},{""ProductID"":534,""Date"":""2023-12-14"",""Units"":1,""Revenue"":110.145,""OrderLine"":9},{""ProductID"":1924,""Date"":""2023-12-14"",""Units"":1,""Revenue"":351.6975,""OrderLine"":10}]"
+2023-12-14,2568,Australia,904633,"[{""ProductID"":2224,""Date"":""2023-12-14"",""Units"":1,""Revenue"":60.3225,""OrderLine"":1}]"
+2023-12-14,3333,Australia,904703,"[{""ProductID"":2269,""Date"":""2023-12-14"",""Units"":1,""Revenue"":314.9475,""OrderLine"":1}]"
+2023-12-14,1169,Australia,904548,"[{""ProductID"":2090,""Date"":""2023-12-14"",""Units"":1,""Revenue"":356.9475,""OrderLine"":1}]"
+2023-12-13,5862,Australia,904314,"[{""ProductID"":2394,""Date"":""2023-12-13"",""Units"":1,""Revenue"":131.1975,""OrderLine"":1}]"
+2023-12-14,6920,Australia,904885,"[{""ProductID"":2058,""Date"":""2023-12-14"",""Units"":1,""Revenue"":267.6975,""OrderLine"":1}]"
+2023-12-13,6479,Australia,904344,"[{""ProductID"":930,""Date"":""2023-12-13"",""Units"":1,""Revenue"":551.1975,""OrderLine"":1}]"
+2023-12-13,922-0023,Japan,904473,"[{""ProductID"":580,""Date"":""2023-12-13"",""Units"":1,""Revenue"":834.4875,""OrderLine"":1}]"
+2023-12-14,3634,Australia,904727,"[{""ProductID"":1178,""Date"":""2023-12-14"",""Units"":1,""Revenue"":587.9475,""OrderLine"":1}]"

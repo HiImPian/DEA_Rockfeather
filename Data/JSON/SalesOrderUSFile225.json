@@ -1,0 +1,56 @@
+﻿[
+    {
+        "Date": "2022-07-25",
+        "Zip": "50273",
+        "OrderID": 945374,
+        "OrderLines": "[{\"ProductID\":826,\"Date\":\"2022-07-25\",\"Units\":1,\"Revenue\":971.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-07-25",
+        "Zip": "53719",
+        "OrderID": 945406,
+        "OrderLines": "[{\"ProductID\":2388,\"Date\":\"2022-07-25\",\"Units\":1,\"Revenue\":309.6975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-07-22",
+        "Zip": "77066",
+        "OrderID": 944513,
+        "OrderLines": "[{\"ProductID\":2225,\"Date\":\"2022-07-22\",\"Units\":1,\"Revenue\":60.3225,\"OrderLine\":1},{\"ProductID\":2224,\"Date\":\"2022-07-22\",\"Units\":1,\"Revenue\":60.3225,\"OrderLine\":2}]"
+    },
+    {
+        "Date": "2022-07-25",
+        "Zip": "06108",
+        "OrderID": 945160,
+        "OrderLines": "[{\"ProductID\":1113,\"Date\":\"2022-07-25\",\"Units\":1,\"Revenue\":146.9475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-07-23",
+        "Zip": "07670",
+        "OrderID": 944786,
+        "OrderLines": "[{\"ProductID\":1395,\"Date\":\"2022-07-23\",\"Units\":1,\"Revenue\":385.77,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-07-21",
+        "Zip": "77625",
+        "OrderID": 943931,
+        "OrderLines": "[{\"ProductID\":432,\"Date\":\"2022-07-21\",\"Units\":1,\"Revenue\":923.7375,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-07-22",
+        "Zip": "51104",
+        "OrderID": 944338,
+        "OrderLines": "[{\"ProductID\":2376,\"Date\":\"2022-07-22\",\"Units\":1,\"Revenue\":666.6975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-07-25",
+        "Zip": "37922",
+        "OrderID": 945324,
+        "OrderLines": "[{\"ProductID\":2064,\"Date\":\"2022-07-25\",\"Units\":1,\"Revenue\":506.5725,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-07-22",
+        "Zip": "33406",
+        "OrderID": 944235,
+        "OrderLines": "[{\"ProductID\":2353,\"Date\":\"2022-07-22\",\"Units\":1,\"Revenue\":430.4475,\"OrderLine\":1}]"
+    }
+]

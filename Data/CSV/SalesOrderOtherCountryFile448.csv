@@ -1,0 +1,10 @@
+﻿Date,Zip,Country,OrderID,OrderLines
+2020-12-28,2680,Australia,505805,"[{""ProductID"":725,""Date"":""2020-12-28"",""Units"":1,""Revenue"":110.1975,""OrderLine"":1},{""ProductID"":726,""Date"":""2020-12-28"",""Units"":1,""Revenue"":110.1975,""OrderLine"":2}]"
+2020-12-28,3533,Australia,505850,"[{""ProductID"":580,""Date"":""2020-12-28"",""Units"":1,""Revenue"":809.8125,""OrderLine"":1},{""ProductID"":946,""Date"":""2020-12-28"",""Units"":1,""Revenue"":692.9475,""OrderLine"":2}]"
+2020-12-28,6721,Australia,505936,"[{""ProductID"":559,""Date"":""2020-12-28"",""Units"":1,""Revenue"":643.3875,""OrderLine"":1}]"
+2020-12-27,741-0084,Japan,505680,"[{""ProductID"":927,""Date"":""2020-12-27"",""Units"":1,""Revenue"":451.4475,""OrderLine"":1}]"
+2020-12-27,960-0612,Japan,505699,"[{""ProductID"":1884,""Date"":""2020-12-27"",""Units"":1,""Revenue"":787.4475,""OrderLine"":1}]"
+2020-12-27,4358,Australia,505473,"[{""ProductID"":1491,""Date"":""2020-12-27"",""Units"":1,""Revenue"":304.395,""OrderLine"":1},{""ProductID"":1492,""Date"":""2020-12-27"",""Units"":1,""Revenue"":304.395,""OrderLine"":2},{""ProductID"":393,""Date"":""2020-12-27"",""Units"":1,""Revenue"":304.395,""OrderLine"":3},{""ProductID"":526,""Date"":""2020-12-27"",""Units"":1,""Revenue"":304.395,""OrderLine"":4},{""ProductID"":527,""Date"":""2020-12-27"",""Units"":1,""Revenue"":304.395,""OrderLine"":5},{""ProductID"":528,""Date"":""2020-12-27"",""Units"":1,""Revenue"":304.395,""OrderLine"":6},{""ProductID"":533,""Date"":""2020-12-27"",""Units"":1,""Revenue"":304.395,""OrderLine"":7},{""ProductID"":535,""Date"":""2020-12-27"",""Units"":1,""Revenue"":304.395,""OrderLine"":8}]"
+2020-12-29,45357,Germany,506114,"[{""ProductID"":2045,""Date"":""2020-12-29"",""Units"":1,""Revenue"":419.95,""OrderLine"":1}]"
+2020-12-27,3929,Australia,505436,"[{""ProductID"":2388,""Date"":""2020-12-27"",""Units"":1,""Revenue"":309.6975,""OrderLine"":1}]"
+2020-12-27,2680,Australia,505277,"[{""ProductID"":762,""Date"":""2020-12-27"",""Units"":1,""Revenue"":173.1975,""OrderLine"":1}]"

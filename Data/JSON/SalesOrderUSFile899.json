@@ -1,0 +1,56 @@
+﻿[
+    {
+        "Date": "2017-07-15",
+        "Zip": "75080",
+        "OrderID": 124315,
+        "OrderLines": "[{\"ProductID\":512,\"Date\":\"2017-07-15\",\"Units\":1,\"Revenue\":230.7375,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2017-07-15",
+        "Zip": "75092",
+        "OrderID": 124318,
+        "OrderLines": "[{\"ProductID\":559,\"Date\":\"2017-07-15\",\"Units\":1,\"Revenue\":590.3625,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2017-07-15",
+        "Zip": "84109",
+        "OrderID": 124516,
+        "OrderLines": "[{\"ProductID\":574,\"Date\":\"2017-07-15\",\"Units\":1,\"Revenue\":839.7375,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2017-07-15",
+        "Zip": "93101",
+        "OrderID": 124747,
+        "OrderLines": "[{\"ProductID\":658,\"Date\":\"2017-07-15\",\"Units\":1,\"Revenue\":927.15,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2017-07-15",
+        "Zip": "90272",
+        "OrderID": 124649,
+        "OrderLines": "[{\"ProductID\":631,\"Date\":\"2017-07-15\",\"Units\":1,\"Revenue\":352.5375,\"OrderLine\":1},{\"ProductID\":645,\"Date\":\"2017-07-15\",\"Units\":1,\"Revenue\":721.0875,\"OrderLine\":2}]"
+    },
+    {
+        "Date": "2017-07-15",
+        "Zip": "77065",
+        "OrderID": 124389,
+        "OrderLines": "[{\"ProductID\":676,\"Date\":\"2017-07-15\",\"Units\":1,\"Revenue\":808.2375,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2017-07-15",
+        "Zip": "76367",
+        "OrderID": 124373,
+        "OrderLines": "[{\"ProductID\":606,\"Date\":\"2017-07-15\",\"Units\":2,\"Revenue\":629.475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2017-07-15",
+        "Zip": "91304",
+        "OrderID": 124665,
+        "OrderLines": "[{\"ProductID\":609,\"Date\":\"2017-07-15\",\"Units\":1,\"Revenue\":817.425,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2017-07-15",
+        "Zip": "93221",
+        "OrderID": 124750,
+        "OrderLines": "[{\"ProductID\":645,\"Date\":\"2017-07-15\",\"Units\":1,\"Revenue\":721.0875,\"OrderLine\":1}]"
+    }
+]

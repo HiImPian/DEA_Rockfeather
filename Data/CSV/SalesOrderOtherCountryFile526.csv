@@ -1,0 +1,10 @@
+﻿Date,Zip,Country,OrderID,OrderLines
+2020-06-28,920-2344,Japan,433784,"[{""ProductID"":486,""Date"":""2020-06-28"",""Units"":1,""Revenue"":980.175,""OrderLine"":1}]"
+2020-06-28,771-5321,Japan,433723,"[{""ProductID"":472,""Date"":""2020-06-28"",""Units"":1,""Revenue"":961.275,""OrderLine"":1}]"
+2020-06-29,2710,Australia,434082,"[{""ProductID"":1943,""Date"":""2020-06-29"",""Units"":1,""Revenue"":125.9475,""OrderLine"":1}]"
+2020-06-29,4388,Australia,434274,"[{""ProductID"":1974,""Date"":""2020-06-29"",""Units"":1,""Revenue"":57.6975,""OrderLine"":1},{""ProductID"":1934,""Date"":""2020-06-29"",""Units"":1,""Revenue"":136.4475,""OrderLine"":2},{""ProductID"":1975,""Date"":""2020-06-29"",""Units"":1,""Revenue"":57.6975,""OrderLine"":3},{""ProductID"":702,""Date"":""2020-06-29"",""Units"":1,""Revenue"":288.6975,""OrderLine"":4},{""ProductID"":1935,""Date"":""2020-06-29"",""Units"":1,""Revenue"":136.4475,""OrderLine"":5},{""ProductID"":791,""Date"":""2020-06-29"",""Units"":1,""Revenue"":62.9475,""OrderLine"":6}]"
+2020-06-28,750-0022,Japan,433699,"[{""ProductID"":2250,""Date"":""2020-06-28"",""Units"":1,""Revenue"":125.9475,""OrderLine"":1},{""ProductID"":2253,""Date"":""2020-06-28"",""Units"":1,""Revenue"":136.4475,""OrderLine"":2},{""ProductID"":2235,""Date"":""2020-06-28"",""Units"":1,""Revenue"":70.8225,""OrderLine"":3},{""ProductID"":2252,""Date"":""2020-06-28"",""Units"":1,""Revenue"":136.4475,""OrderLine"":4}]"
+2020-06-27,961-0062,Japan,433514,"[{""ProductID"":759,""Date"":""2020-06-27"",""Units"":1,""Revenue"":146.9475,""OrderLine"":1},{""ProductID"":681,""Date"":""2020-06-27"",""Units"":1,""Revenue"":715.8375,""OrderLine"":2}]"
+2020-06-29,5164,Australia,434365,"[{""ProductID"":733,""Date"":""2020-06-29"",""Units"":1,""Revenue"":341.1975,""OrderLine"":1},{""ProductID"":734,""Date"":""2020-06-29"",""Units"":1,""Revenue"":341.1975,""OrderLine"":2}]"
+2020-06-27,5482,Australia,433263,"[{""ProductID"":778,""Date"":""2020-06-27"",""Units"":1,""Revenue"":115.4475,""OrderLine"":1}]"
+2020-06-28,742-0337,Japan,433665,"[{""ProductID"":512,""Date"":""2020-06-28"",""Units"":1,""Revenue"":241.2375,""OrderLine"":1}]"

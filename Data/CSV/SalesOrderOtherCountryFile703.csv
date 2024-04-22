@@ -1,0 +1,11 @@
+﻿Date,Zip,Country,OrderID,OrderLines
+2019-02-27,3841,Australia,271832,"[{""ProductID"":1213,""Date"":""2019-02-27"",""Units"":1,""Revenue"":566.9475,""OrderLine"":1}]"
+2019-02-28,6473,Australia,273190,"[{""ProductID"":767,""Date"":""2019-02-28"",""Units"":1,""Revenue"":94.4475,""OrderLine"":1},{""ProductID"":954,""Date"":""2019-02-28"",""Units"":1,""Revenue"":698.1975,""OrderLine"":2}]"
+2019-02-28,53119,Germany,273404,"[{""ProductID"":2054,""Date"":""2019-02-28"",""Units"":1,""Revenue"":545.95,""OrderLine"":1},{""ProductID"":702,""Date"":""2019-02-28"",""Units"":1,""Revenue"":288.7,""OrderLine"":2}]"
+2019-02-27,7160,Mexico,272113,"[{""ProductID"":1215,""Date"":""2019-02-27"",""Units"":1,""Revenue"":356.95,""OrderLine"":1},{""ProductID"":2359,""Date"":""2019-02-27"",""Units"":1,""Revenue"":430.45,""OrderLine"":2}]"
+2019-02-28,3091,Australia,272587,"[{""ProductID"":2353,""Date"":""2019-02-28"",""Units"":1,""Revenue"":414.6975,""OrderLine"":1},{""ProductID"":826,""Date"":""2019-02-28"",""Units"":1,""Revenue"":944.9475,""OrderLine"":2},{""ProductID"":271,""Date"":""2019-02-28"",""Units"":1,""Revenue"":561.4875,""OrderLine"":3},{""ProductID"":990,""Date"":""2019-02-28"",""Units"":1,""Revenue"":430.4475,""OrderLine"":4}]"
+2019-02-28,4102,Australia,272866,"[{""ProductID"":1053,""Date"":""2019-02-28"",""Units"":1,""Revenue"":262.4475,""OrderLine"":1}]"
+2019-02-27,5000,Mexico,272106,"[{""ProductID"":2235,""Date"":""2019-02-27"",""Units"":1,""Revenue"":70.82,""OrderLine"":1}]"
+2019-02-28,3108,Australia,272595,"[{""ProductID"":493,""Date"":""2019-02-28"",""Units"":1,""Revenue"":969.675,""OrderLine"":1}]"
+2019-02-28,2146,Australia,272339,"[{""ProductID"":472,""Date"":""2019-02-28"",""Units"":1,""Revenue"":961.275,""OrderLine"":1},{""ProductID"":915,""Date"":""2019-02-28"",""Units"":1,""Revenue"":556.4475,""OrderLine"":2},{""ProductID"":734,""Date"":""2019-02-28"",""Units"":1,""Revenue"":330.6975,""OrderLine"":3},{""ProductID"":757,""Date"":""2019-02-28"",""Units"":2,""Revenue"":146.895,""OrderLine"":4},{""ProductID"":990,""Date"":""2019-02-28"",""Units"":1,""Revenue"":440.9475,""OrderLine"":5}]"
+2019-02-27,3099,Australia,271760,"[{""ProductID"":964,""Date"":""2019-02-27"",""Units"":1,""Revenue"":335.9475,""OrderLine"":1}]"

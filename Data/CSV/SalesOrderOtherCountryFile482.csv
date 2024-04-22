@@ -1,0 +1,10 @@
+﻿Date,Zip,Country,OrderID,OrderLines
+2020-10-23,747-0824,Japan,477111,"[{""ProductID"":2352,""Date"":""2020-10-23"",""Units"":1,""Revenue"":367.4475,""OrderLine"":1}]"
+2020-10-23,5481,Australia,476951,"[{""ProductID"":915,""Date"":""2020-10-23"",""Units"":1,""Revenue"":556.4475,""OrderLine"":1}]"
+2020-10-23,4503,Australia,476889,"[{""ProductID"":2373,""Date"":""2020-10-23"",""Units"":1,""Revenue"":619.4475,""OrderLine"":1}]"
+2020-10-23,5700,Australia,476960,"[{""ProductID"":1870,""Date"":""2020-10-23"",""Units"":1,""Revenue"":850.4475,""OrderLine"":1}]"
+2020-10-23,3453,Australia,476799,"[{""ProductID"":1086,""Date"":""2020-10-23"",""Units"":1,""Revenue"":89.1975,""OrderLine"":1},{""ProductID"":1085,""Date"":""2020-10-23"",""Units"":1,""Revenue"":89.1975,""OrderLine"":2}]"
+2020-10-23,6323,Australia,476987,"[{""ProductID"":526,""Date"":""2020-10-23"",""Units"":1,""Revenue"":262.395,""OrderLine"":1},{""ProductID"":527,""Date"":""2020-10-23"",""Units"":1,""Revenue"":262.395,""OrderLine"":2},{""ProductID"":528,""Date"":""2020-10-23"",""Units"":1,""Revenue"":262.395,""OrderLine"":3},{""ProductID"":529,""Date"":""2020-10-23"",""Units"":1,""Revenue"":262.395,""OrderLine"":4},{""ProductID"":530,""Date"":""2020-10-23"",""Units"":1,""Revenue"":262.395,""OrderLine"":5},{""ProductID"":531,""Date"":""2020-10-23"",""Units"":1,""Revenue"":262.395,""OrderLine"":6},{""ProductID"":535,""Date"":""2020-10-23"",""Units"":1,""Revenue"":262.395,""OrderLine"":7},{""ProductID"":393,""Date"":""2020-10-23"",""Units"":1,""Revenue"":262.395,""OrderLine"":8},{""ProductID"":393,""Date"":""2020-10-23"",""Units"":1,""Revenue"":262.395,""OrderLine"":9}]"
+2020-10-23,4471,Australia,476884,"[{""ProductID"":2212,""Date"":""2020-10-23"",""Units"":1,""Revenue"":89.1975,""OrderLine"":1}]"
+2020-10-23,747-0034,Japan,477108,"[{""ProductID"":2234,""Date"":""2020-10-23"",""Units"":1,""Revenue"":70.8225,""OrderLine"":1}]"
+2020-10-23,46485,Germany,477065,"[{""ProductID"":432,""Date"":""2020-10-23"",""Units"":1,""Revenue"":923.74,""OrderLine"":1}]"

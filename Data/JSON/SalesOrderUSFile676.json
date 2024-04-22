@@ -1,0 +1,38 @@
+﻿[
+    {
+        "Date": "2019-06-06",
+        "Zip": "84604",
+        "OrderID": 395982,
+        "OrderLines": "[{\"ProductID\":592,\"Date\":\"2019-06-06\",\"Units\":1,\"Revenue\":939.4875,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2019-06-07",
+        "Zip": "25601",
+        "OrderID": 396136,
+        "OrderLines": "[{\"ProductID\":2071,\"Date\":\"2019-06-07\",\"Units\":1,\"Revenue\":346.4475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2019-06-07",
+        "Zip": "47978",
+        "OrderID": 396249,
+        "OrderLines": "[{\"ProductID\":915,\"Date\":\"2019-06-07\",\"Units\":1,\"Revenue\":556.4475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2019-06-07",
+        "Zip": "93245",
+        "OrderID": 396431,
+        "OrderLines": "[{\"ProductID\":1143,\"Date\":\"2019-06-07\",\"Units\":1,\"Revenue\":551.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2019-06-07",
+        "Zip": "38555",
+        "OrderID": 396208,
+        "OrderLines": "[{\"ProductID\":992,\"Date\":\"2019-06-07\",\"Units\":1,\"Revenue\":278.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2019-06-08",
+        "Zip": "20689",
+        "OrderID": 396509,
+        "OrderLines": "[{\"ProductID\":725,\"Date\":\"2019-06-08\",\"Units\":1,\"Revenue\":120.6975,\"OrderLine\":1},{\"ProductID\":726,\"Date\":\"2019-06-08\",\"Units\":1,\"Revenue\":120.6975,\"OrderLine\":2}]"
+    }
+]

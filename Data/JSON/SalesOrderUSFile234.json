@@ -1,0 +1,56 @@
+﻿[
+    {
+        "Date": "2022-06-30",
+        "Zip": "79088",
+        "OrderID": 934400,
+        "OrderLines": "[{\"ProductID\":2277,\"Date\":\"2022-06-30\",\"Units\":1,\"Revenue\":278.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-06-30",
+        "Zip": "40245",
+        "OrderID": 933548,
+        "OrderLines": "[{\"ProductID\":1519,\"Date\":\"2022-06-30\",\"Units\":1,\"Revenue\":188.895,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-06-30",
+        "Zip": "55128",
+        "OrderID": 933866,
+        "OrderLines": "[{\"ProductID\":2336,\"Date\":\"2022-06-30\",\"Units\":1,\"Revenue\":677.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-06-30",
+        "Zip": "58501",
+        "OrderID": 933941,
+        "OrderLines": "[{\"ProductID\":1228,\"Date\":\"2022-06-30\",\"Units\":1,\"Revenue\":131.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-06-30",
+        "Zip": "52571",
+        "OrderID": 933745,
+        "OrderLines": "[{\"ProductID\":1110,\"Date\":\"2022-06-30\",\"Units\":1,\"Revenue\":215.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-06-30",
+        "Zip": "46341",
+        "OrderID": 933625,
+        "OrderLines": "[{\"ProductID\":1009,\"Date\":\"2022-06-30\",\"Units\":1,\"Revenue\":104.9475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-06-30",
+        "Zip": "84092",
+        "OrderID": 934489,
+        "OrderLines": "[{\"ProductID\":2277,\"Date\":\"2022-06-30\",\"Units\":1,\"Revenue\":278.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-06-30",
+        "Zip": "54563",
+        "OrderID": 933822,
+        "OrderLines": "[{\"ProductID\":760,\"Date\":\"2022-06-30\",\"Units\":1,\"Revenue\":157.4475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-06-30",
+        "Zip": "53546",
+        "OrderID": 933793,
+        "OrderLines": "[{\"ProductID\":2396,\"Date\":\"2022-06-30\",\"Units\":1,\"Revenue\":97.0725,\"OrderLine\":1},{\"ProductID\":432,\"Date\":\"2022-06-30\",\"Units\":1,\"Revenue\":923.7375,\"OrderLine\":2},{\"ProductID\":764,\"Date\":\"2022-06-30\",\"Units\":1,\"Revenue\":309.6975,\"OrderLine\":3}]"
+    }
+]

@@ -1,0 +1,14 @@
+﻿[
+    {
+        "Date": "2019-06-27",
+        "Zip": "21804",
+        "OrderID": 405009,
+        "OrderLines": "[{\"ProductID\":645,\"Date\":\"2019-06-27\",\"Units\":1,\"Revenue\":729.4875,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2019-06-27",
+        "Zip": "76502",
+        "OrderID": 405425,
+        "OrderLines": "[{\"ProductID\":600,\"Date\":\"2019-06-27\",\"Units\":1,\"Revenue\":713.7375,\"OrderLine\":1}]"
+    }
+]

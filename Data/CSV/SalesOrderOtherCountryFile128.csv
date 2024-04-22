@@ -1,0 +1,10 @@
+﻿Date,Zip,Country,OrderID,OrderLines
+2023-03-01,2102,Australia,797355,"[{""ProductID"":2389,""Date"":""2023-03-01"",""Units"":1,""Revenue"":870.45,""OrderLine"":1}]"
+2023-02-28,960-1246,Japan,797214,"[{""ProductID"":1920,""Date"":""2023-02-28"",""Units"":1,""Revenue"":267.6975,""OrderLine"":1}]"
+2023-03-02,2020,Australia,797588,"[{""ProductID"":1523,""Date"":""2023-03-02"",""Units"":1,""Revenue"":312.27,""OrderLine"":1},{""ProductID"":1524,""Date"":""2023-03-02"",""Units"":1,""Revenue"":312.27,""OrderLine"":2},{""ProductID"":524,""Date"":""2023-03-02"",""Units"":1,""Revenue"":312.27,""OrderLine"":3},{""ProductID"":527,""Date"":""2023-03-02"",""Units"":1,""Revenue"":312.27,""OrderLine"":4}]"
+2023-03-02,6488,Australia,797657,"[{""ProductID"":1319,""Date"":""2023-03-02"",""Units"":1,""Revenue"":341.145,""OrderLine"":1},{""ProductID"":1320,""Date"":""2023-03-02"",""Units"":1,""Revenue"":341.145,""OrderLine"":2}]"
+2023-02-28,779-0225,Japan,797117,"[{""ProductID"":1523,""Date"":""2023-02-28"",""Units"":1,""Revenue"":312.27,""OrderLine"":1}]"
+2023-02-28,747-0846,Japan,797056,"[{""ProductID"":2355,""Date"":""2023-02-28"",""Units"":1,""Revenue"":593.1975,""OrderLine"":1},{""ProductID"":965,""Date"":""2023-02-28"",""Units"":1,""Revenue"":509.1975,""OrderLine"":2},{""ProductID"":1524,""Date"":""2023-02-28"",""Units"":1,""Revenue"":312.27,""OrderLine"":3},{""ProductID"":2224,""Date"":""2023-02-28"",""Units"":1,""Revenue"":60.3225,""OrderLine"":4},{""ProductID"":794,""Date"":""2023-02-28"",""Units"":1,""Revenue"":83.9475,""OrderLine"":5},{""ProductID"":1523,""Date"":""2023-02-28"",""Units"":1,""Revenue"":312.27,""OrderLine"":6},{""ProductID"":2054,""Date"":""2023-02-28"",""Units"":1,""Revenue"":577.4475,""OrderLine"":7}]"
+2023-03-02,53332,Germany,797683,"[{""ProductID"":2269,""Date"":""2023-03-02"",""Units"":1,""Revenue"":325.45,""OrderLine"":1}]"
+2023-02-28,961-0885,Japan,797239,"[{""ProductID"":1129,""Date"":""2023-02-28"",""Units"":1,""Revenue"":446.1975,""OrderLine"":1}]"
+2023-03-01,4732,Australia,797466,"[{""ProductID"":438,""Date"":""2023-03-01"",""Units"":1,""Revenue"":960.4875,""OrderLine"":1}]"

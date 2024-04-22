@@ -1,0 +1,32 @@
+﻿[
+    {
+        "Date": "2017-07-14",
+        "Zip": "55116",
+        "OrderID": 122812,
+        "OrderLines": "[{\"ProductID\":964,\"Date\":\"2017-07-14\",\"Units\":1,\"Revenue\":314.9475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2017-07-14",
+        "Zip": "53951",
+        "OrderID": 122787,
+        "OrderLines": "[{\"ProductID\":785,\"Date\":\"2017-07-14\",\"Units\":1,\"Revenue\":68.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2017-07-13",
+        "Zip": "35188",
+        "OrderID": 122325,
+        "OrderLines": "[{\"ProductID\":2359,\"Date\":\"2017-07-13\",\"Units\":1,\"Revenue\":409.4475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2017-07-13",
+        "Zip": "91307",
+        "OrderID": 122561,
+        "OrderLines": "[{\"ProductID\":2240,\"Date\":\"2017-07-13\",\"Units\":1,\"Revenue\":86.5725,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2017-07-15",
+        "Zip": "21842",
+        "OrderID": 123271,
+        "OrderLines": "[{\"ProductID\":609,\"Date\":\"2017-07-15\",\"Units\":2,\"Revenue\":1604.4,\"OrderLine\":1}]"
+    }
+]

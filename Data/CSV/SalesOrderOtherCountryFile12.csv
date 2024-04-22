@@ -1,0 +1,10 @@
+﻿Date,Zip,Country,OrderID,OrderLines
+2023-12-12,2046,Australia,903496,"[{""ProductID"":1053,""Date"":""2023-12-12"",""Units"":1,""Revenue"":272.9475,""OrderLine"":1}]"
+2023-12-08,3746,Australia,902513,"[{""ProductID"":1178,""Date"":""2023-12-08"",""Units"":1,""Revenue"":587.9475,""OrderLine"":1}]"
+2023-12-08,743-0072,Japan,902695,"[{""ProductID"":1005,""Date"":""2023-12-08"",""Units"":2,""Revenue"":215.145,""OrderLine"":1}]"
+2023-12-11,V6B,Canada,903313,"[{""ProductID"":1517,""Date"":""2023-12-11"",""Units"":1,""Revenue"":196.77,""OrderLine"":1}]"
+2023-12-08,4011,Australia,902533,"[{""ProductID"":1178,""Date"":""2023-12-08"",""Units"":1,""Revenue"":587.9475,""OrderLine"":1},{""ProductID"":2054,""Date"":""2023-12-08"",""Units"":1,""Revenue"":577.4475,""OrderLine"":2}]"
+2023-12-08,5410,Mexico,902751,"[{""ProductID"":528,""Date"":""2023-12-08"",""Units"":1,""Revenue"":603.49,""OrderLine"":1}]"
+2023-12-09,4707,Australia,902985,"[{""ProductID"":2064,""Date"":""2023-12-09"",""Units"":2,""Revenue"":1049.895,""OrderLine"":1}]"
+2023-12-08,960-1107,Japan,902741,"[{""ProductID"":1495,""Date"":""2023-12-08"",""Units"":1,""Revenue"":351.645,""OrderLine"":1},{""ProductID"":1496,""Date"":""2023-12-08"",""Units"":1,""Revenue"":351.645,""OrderLine"":2}]"
+2023-12-08,742-1503,Japan,902693,"[{""ProductID"":759,""Date"":""2023-12-08"",""Units"":1,""Revenue"":157.4475,""OrderLine"":1}]"

@@ -1,0 +1,56 @@
+﻿[
+    {
+        "Date": "2021-12-17",
+        "Zip": "91384",
+        "OrderID": 826688,
+        "OrderLines": "[{\"ProductID\":787,\"Date\":\"2021-12-17\",\"Units\":1,\"Revenue\":320.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2021-12-17",
+        "Zip": "21157",
+        "OrderID": 826159,
+        "OrderLines": "[{\"ProductID\":2238,\"Date\":\"2021-12-17\",\"Units\":1,\"Revenue\":125.9475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2021-12-16",
+        "Zip": "91748",
+        "OrderID": 825933,
+        "OrderLines": "[{\"ProductID\":2237,\"Date\":\"2021-12-16\",\"Units\":1,\"Revenue\":173.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2021-12-18",
+        "Zip": "77386",
+        "OrderID": 827079,
+        "OrderLines": "[{\"ProductID\":782,\"Date\":\"2021-12-18\",\"Units\":1,\"Revenue\":99.6975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2021-12-17",
+        "Zip": "46123",
+        "OrderID": 826387,
+        "OrderLines": "[{\"ProductID\":2269,\"Date\":\"2021-12-17\",\"Units\":1,\"Revenue\":299.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2021-12-18",
+        "Zip": "32504",
+        "OrderID": 826909,
+        "OrderLines": "[{\"ProductID\":2236,\"Date\":\"2021-12-18\",\"Units\":1,\"Revenue\":173.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2021-12-17",
+        "Zip": "33884",
+        "OrderID": 826292,
+        "OrderLines": "[{\"ProductID\":657,\"Date\":\"2021-12-17\",\"Units\":1,\"Revenue\":902.7375,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2021-12-16",
+        "Zip": "95843",
+        "OrderID": 826090,
+        "OrderLines": "[{\"ProductID\":2239,\"Date\":\"2021-12-16\",\"Units\":1,\"Revenue\":125.9475,\"OrderLine\":1},{\"ProductID\":2218,\"Date\":\"2021-12-16\",\"Units\":1,\"Revenue\":141.6975,\"OrderLine\":2},{\"ProductID\":2219,\"Date\":\"2021-12-16\",\"Units\":1,\"Revenue\":141.6975,\"OrderLine\":3}]"
+    },
+    {
+        "Date": "2021-12-18",
+        "Zip": "47462",
+        "OrderID": 826992,
+        "OrderLines": "[{\"ProductID\":1000,\"Date\":\"2021-12-18\",\"Units\":1,\"Revenue\":91.8225,\"OrderLine\":1}]"
+    }
+]

@@ -1,0 +1,56 @@
+﻿[
+    {
+        "Date": "2018-03-16",
+        "Zip": "29360",
+        "OrderID": 196449,
+        "OrderLines": "[{\"ProductID\":964,\"Date\":\"2018-03-16\",\"Units\":1,\"Revenue\":325.4475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2018-03-15",
+        "Zip": "21917",
+        "OrderID": 195858,
+        "OrderLines": "[{\"ProductID\":992,\"Date\":\"2018-03-15\",\"Units\":1,\"Revenue\":278.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2018-03-16",
+        "Zip": "33441",
+        "OrderID": 196498,
+        "OrderLines": "[{\"ProductID\":990,\"Date\":\"2018-03-16\",\"Units\":1,\"Revenue\":440.9475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2018-03-15",
+        "Zip": "92122",
+        "OrderID": 196270,
+        "OrderLines": "[{\"ProductID\":788,\"Date\":\"2018-03-15\",\"Units\":1,\"Revenue\":314.9475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2018-03-16",
+        "Zip": "33463",
+        "OrderID": 196499,
+        "OrderLines": "[{\"ProductID\":2056,\"Date\":\"2018-03-16\",\"Units\":1,\"Revenue\":333.3225,\"OrderLine\":1},{\"ProductID\":2050,\"Date\":\"2018-03-16\",\"Units\":1,\"Revenue\":503.9475,\"OrderLine\":2}]"
+    },
+    {
+        "Date": "2018-03-16",
+        "Zip": "33476",
+        "OrderID": 196500,
+        "OrderLines": "[{\"ProductID\":1186,\"Date\":\"2018-03-16\",\"Units\":1,\"Revenue\":425.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2018-03-15",
+        "Zip": "90303",
+        "OrderID": 196246,
+        "OrderLines": "[{\"ProductID\":757,\"Date\":\"2018-03-15\",\"Units\":1,\"Revenue\":83.9475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2018-03-15",
+        "Zip": "55426",
+        "OrderID": 196040,
+        "OrderLines": "[{\"ProductID\":676,\"Date\":\"2018-03-15\",\"Units\":1,\"Revenue\":823.9875,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2018-03-16",
+        "Zip": "32825",
+        "OrderID": 196481,
+        "OrderLines": "[{\"ProductID\":1186,\"Date\":\"2018-03-16\",\"Units\":1,\"Revenue\":425.1975,\"OrderLine\":1}]"
+    }
+]

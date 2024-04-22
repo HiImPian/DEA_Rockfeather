@@ -1,0 +1,32 @@
+﻿[
+    {
+        "Date": "2016-06-15",
+        "Zip": "90241",
+        "OrderID": 29140,
+        "OrderLines": "[{\"ProductID\":574,\"Date\":\"2016-06-15\",\"Units\":1,\"Revenue\":830.55,\"OrderLine\":1},{\"ProductID\":962,\"Date\":\"2016-06-15\",\"Units\":1,\"Revenue\":524.9475,\"OrderLine\":2}]"
+    },
+    {
+        "Date": "2016-06-15",
+        "Zip": "89134",
+        "OrderID": 29082,
+        "OrderLines": "[{\"ProductID\":1449,\"Date\":\"2016-06-15\",\"Units\":1,\"Revenue\":118.02,\"OrderLine\":1},{\"ProductID\":1122,\"Date\":\"2016-06-15\",\"Units\":1,\"Revenue\":157.4475,\"OrderLine\":2},{\"ProductID\":1450,\"Date\":\"2016-06-15\",\"Units\":1,\"Revenue\":118.02,\"OrderLine\":3},{\"ProductID\":609,\"Date\":\"2016-06-15\",\"Units\":1,\"Revenue\":778.8375,\"OrderLine\":4},{\"ProductID\":837,\"Date\":\"2016-06-15\",\"Units\":1,\"Revenue\":813.6975,\"OrderLine\":5}]"
+    },
+    {
+        "Date": "2016-06-15",
+        "Zip": "92024",
+        "OrderID": 29287,
+        "OrderLines": "[{\"ProductID\":1080,\"Date\":\"2016-06-15\",\"Units\":1,\"Revenue\":262.4475,\"OrderLine\":1},{\"ProductID\":187,\"Date\":\"2016-06-15\",\"Units\":1,\"Revenue\":819,\"OrderLine\":2},{\"ProductID\":2047,\"Date\":\"2016-06-15\",\"Units\":1,\"Revenue\":377.9475,\"OrderLine\":3},{\"ProductID\":2282,\"Date\":\"2016-06-15\",\"Units\":2,\"Revenue\":608.895,\"OrderLine\":4}]"
+    },
+    {
+        "Date": "2016-06-15",
+        "Zip": "94043",
+        "OrderID": 29554,
+        "OrderLines": "[{\"ProductID\":1208,\"Date\":\"2016-06-15\",\"Units\":1,\"Revenue\":330.6975,\"OrderLine\":1},{\"ProductID\":2352,\"Date\":\"2016-06-15\",\"Units\":1,\"Revenue\":367.4475,\"OrderLine\":2},{\"ProductID\":921,\"Date\":\"2016-06-15\",\"Units\":1,\"Revenue\":524.9475,\"OrderLine\":3}]"
+    },
+    {
+        "Date": "2016-06-15",
+        "Zip": "85750",
+        "OrderID": 28963,
+        "OrderLines": "[{\"ProductID\":2282,\"Date\":\"2016-06-15\",\"Units\":1,\"Revenue\":304.4475,\"OrderLine\":1},{\"ProductID\":580,\"Date\":\"2016-06-15\",\"Units\":1,\"Revenue\":734.7375,\"OrderLine\":2}]"
+    }
+]

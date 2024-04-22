@@ -1,0 +1,10 @@
+﻿Date,Zip,Country,OrderID,OrderLines
+2023-07-10,3509,Australia,836076,"[{""ProductID"":530,""Date"":""2023-07-10"",""Units"":1,""Revenue"":396.27,""OrderLine"":1},{""ProductID"":531,""Date"":""2023-07-10"",""Units"":1,""Revenue"":396.27,""OrderLine"":2},{""ProductID"":524,""Date"":""2023-07-10"",""Units"":1,""Revenue"":396.27,""OrderLine"":3},{""ProductID"":525,""Date"":""2023-07-10"",""Units"":1,""Revenue"":396.27,""OrderLine"":4},{""ProductID"":527,""Date"":""2023-07-10"",""Units"":1,""Revenue"":396.27,""OrderLine"":5},{""ProductID"":531,""Date"":""2023-07-10"",""Units"":1,""Revenue"":396.27,""OrderLine"":6},{""ProductID"":533,""Date"":""2023-07-10"",""Units"":1,""Revenue"":396.27,""OrderLine"":7},{""ProductID"":535,""Date"":""2023-07-10"",""Units"":1,""Revenue"":396.27,""OrderLine"":8},{""ProductID"":393,""Date"":""2023-07-10"",""Units"":1,""Revenue"":396.27,""OrderLine"":9},{""ProductID"":527,""Date"":""2023-07-10"",""Units"":1,""Revenue"":396.27,""OrderLine"":10},{""ProductID"":393,""Date"":""2023-07-10"",""Units"":1,""Revenue"":396.27,""OrderLine"":11}]"
+2023-07-10,920-0124,Japan,836310,"[{""ProductID"":2073,""Date"":""2023-07-10"",""Units"":1,""Revenue"":356.9475,""OrderLine"":1}]"
+2023-07-11,920-0017,Japan,836680,"[{""ProductID"":660,""Date"":""2023-07-11"",""Units"":1,""Revenue"":707.7,""OrderLine"":1}]"
+2023-07-11,3676,Australia,836494,"[{""ProductID"":689,""Date"":""2023-07-11"",""Units"":1,""Revenue"":357.7875,""OrderLine"":1}]"
+2023-07-10,10823,Germany,836171,"[{""ProductID"":1000,""Date"":""2023-07-10"",""Units"":1,""Revenue"":97.07,""OrderLine"":1}]"
+2023-07-12,744-0005,Japan,836948,"[{""ProductID"":2047,""Date"":""2023-07-12"",""Units"":1,""Revenue"":367.4475,""OrderLine"":1}]"
+2023-07-11,22605,Germany,836580,"[{""ProductID"":976,""Date"":""2023-07-11"",""Units"":1,""Revenue"":330.7,""OrderLine"":1}]"
+2023-07-11,853,Australia,836417,"[{""ProductID"":409,""Date"":""2023-07-11"",""Units"":1,""Revenue"":966.525,""OrderLine"":1}]"
+2023-07-10,770-8033,Japan,836280,"[{""ProductID"":1938,""Date"":""2023-07-10"",""Units"":1,""Revenue"":293.9475,""OrderLine"":1}]"

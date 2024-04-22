@@ -1,0 +1,56 @@
+﻿[
+    {
+        "Date": "2023-01-25",
+        "Zip": "21236",
+        "OrderID": 1031523,
+        "OrderLines": "[{\"ProductID\":432,\"Date\":\"2023-01-25\",\"Units\":1,\"Revenue\":923.7375,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2023-01-25",
+        "Zip": "63005",
+        "OrderID": 1031647,
+        "OrderLines": "[{\"ProductID\":1085,\"Date\":\"2023-01-25\",\"Units\":1,\"Revenue\":89.1975,\"OrderLine\":1},{\"ProductID\":1086,\"Date\":\"2023-01-25\",\"Units\":1,\"Revenue\":89.1975,\"OrderLine\":2}]"
+    },
+    {
+        "Date": "2023-01-23",
+        "Zip": "95469",
+        "OrderID": 1031008,
+        "OrderLines": "[{\"ProductID\":1098,\"Date\":\"2023-01-23\",\"Units\":1,\"Revenue\":309.6975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2023-01-20",
+        "Zip": "54519",
+        "OrderID": 1030184,
+        "OrderLines": "[{\"ProductID\":2295,\"Date\":\"2023-01-20\",\"Units\":1,\"Revenue\":908.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2023-01-19",
+        "Zip": "36078",
+        "OrderID": 1029789,
+        "OrderLines": "[{\"ProductID\":445,\"Date\":\"2023-01-19\",\"Units\":1,\"Revenue\":938.7,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2023-01-23",
+        "Zip": "84405",
+        "OrderID": 1030880,
+        "OrderLines": "[{\"ProductID\":816,\"Date\":\"2023-01-23\",\"Units\":1,\"Revenue\":362.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2023-01-23",
+        "Zip": "32828",
+        "OrderID": 1030669,
+        "OrderLines": "[{\"ProductID\":2331,\"Date\":\"2023-01-23\",\"Units\":2,\"Revenue\":1191.645,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2023-01-21",
+        "Zip": "34429",
+        "OrderID": 1030476,
+        "OrderLines": "[{\"ProductID\":409,\"Date\":\"2023-01-21\",\"Units\":1,\"Revenue\":966.525,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2023-01-24",
+        "Zip": "33410",
+        "OrderID": 1031127,
+        "OrderLines": "[{\"ProductID\":2055,\"Date\":\"2023-01-24\",\"Units\":1,\"Revenue\":582.6975,\"OrderLine\":1}]"
+    }
+]

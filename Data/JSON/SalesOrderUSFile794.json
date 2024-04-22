@@ -1,0 +1,50 @@
+﻿[
+    {
+        "Date": "2018-07-02",
+        "Zip": "92131",
+        "OrderID": 253631,
+        "OrderLines": "[{\"ProductID\":1182,\"Date\":\"2018-07-02\",\"Units\":1,\"Revenue\":157.4475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2018-07-05",
+        "Zip": "54016",
+        "OrderID": 254439,
+        "OrderLines": "[{\"ProductID\":2388,\"Date\":\"2018-07-05\",\"Units\":1,\"Revenue\":309.6975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2018-07-03",
+        "Zip": "55379",
+        "OrderID": 253909,
+        "OrderLines": "[{\"ProductID\":2241,\"Date\":\"2018-07-03\",\"Units\":1,\"Revenue\":89.1975,\"OrderLine\":1},{\"ProductID\":2240,\"Date\":\"2018-07-03\",\"Units\":1,\"Revenue\":89.1975,\"OrderLine\":2}]"
+    },
+    {
+        "Date": "2018-07-05",
+        "Zip": "55443",
+        "OrderID": 254480,
+        "OrderLines": "[{\"ProductID\":1131,\"Date\":\"2018-07-05\",\"Units\":1,\"Revenue\":430.4475,\"OrderLine\":1},{\"ProductID\":609,\"Date\":\"2018-07-05\",\"Units\":1,\"Revenue\":813.4875,\"OrderLine\":2},{\"ProductID\":443,\"Date\":\"2018-07-05\",\"Units\":1,\"Revenue\":814.8,\"OrderLine\":3}]"
+    },
+    {
+        "Date": "2018-07-02",
+        "Zip": "91901",
+        "OrderID": 253624,
+        "OrderLines": "[{\"ProductID\":94,\"Date\":\"2018-07-02\",\"Units\":1,\"Revenue\":891.975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2018-07-05",
+        "Zip": "35222",
+        "OrderID": 254353,
+        "OrderLines": "[{\"ProductID\":1937,\"Date\":\"2018-07-05\",\"Units\":1,\"Revenue\":286.0725,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2018-07-02",
+        "Zip": "94580",
+        "OrderID": 253682,
+        "OrderLines": "[{\"ProductID\":550,\"Date\":\"2018-07-02\",\"Units\":1,\"Revenue\":414.4875,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2018-07-05",
+        "Zip": "58103",
+        "OrderID": 254494,
+        "OrderLines": "[{\"ProductID\":426,\"Date\":\"2018-07-05\",\"Units\":1,\"Revenue\":828.45,\"OrderLine\":1}]"
+    }
+]

@@ -1,0 +1,56 @@
+﻿[
+    {
+        "Date": "2020-05-20",
+        "Zip": "32132",
+        "OrderID": 547204,
+        "OrderLines": "[{\"ProductID\":495,\"Date\":\"2020-05-20\",\"Units\":2,\"Revenue\":1231.02,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2020-05-20",
+        "Zip": "08801",
+        "OrderID": 547154,
+        "OrderLines": "[{\"ProductID\":642,\"Date\":\"2020-05-20\",\"Units\":1,\"Revenue\":903.7875,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2020-05-19",
+        "Zip": "06096",
+        "OrderID": 546256,
+        "OrderLines": "[{\"ProductID\":2012,\"Date\":\"2020-05-19\",\"Units\":1,\"Revenue\":388.4475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2020-05-19",
+        "Zip": "46237",
+        "OrderID": 546528,
+        "OrderLines": "[{\"ProductID\":976,\"Date\":\"2020-05-19\",\"Units\":1,\"Revenue\":325.4475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2020-05-19",
+        "Zip": "72335",
+        "OrderID": 546696,
+        "OrderLines": "[{\"ProductID\":964,\"Date\":\"2020-05-19\",\"Units\":1,\"Revenue\":330.6975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2020-05-19",
+        "Zip": "91324",
+        "OrderID": 546886,
+        "OrderLines": "[{\"ProductID\":927,\"Date\":\"2020-05-19\",\"Units\":1,\"Revenue\":451.4475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2020-05-19",
+        "Zip": "33029",
+        "OrderID": 546402,
+        "OrderLines": "[{\"ProductID\":2045,\"Date\":\"2020-05-19\",\"Units\":1,\"Revenue\":419.9475,\"OrderLine\":1},{\"ProductID\":632,\"Date\":\"2020-05-19\",\"Units\":1,\"Revenue\":403.725,\"OrderLine\":2}]"
+    },
+    {
+        "Date": "2020-05-19",
+        "Zip": "89410",
+        "OrderID": 546861,
+        "OrderLines": "[{\"ProductID\":768,\"Date\":\"2020-05-19\",\"Units\":1,\"Revenue\":94.4475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2020-05-20",
+        "Zip": "42215",
+        "OrderID": 547334,
+        "OrderLines": "[{\"ProductID\":785,\"Date\":\"2020-05-20\",\"Units\":1,\"Revenue\":57.6975,\"OrderLine\":1}]"
+    }
+]

@@ -1,0 +1,10 @@
+﻿Date,Zip,Country,OrderID,OrderLines
+2020-02-11,2484,Australia,392608,"[{""ProductID"":573,""Date"":""2020-02-11"",""Units"":1,""Revenue"":313.6875,""OrderLine"":1}]"
+2020-02-10,772-0042,Japan,392468,"[{""ProductID"":1425,""Date"":""2020-02-10"",""Units"":1,""Revenue"":307.02,""OrderLine"":1},{""ProductID"":1426,""Date"":""2020-02-10"",""Units"":1,""Revenue"":307.02,""OrderLine"":2}]"
+2020-02-11,2114,Australia,392573,"[{""ProductID"":1000,""Date"":""2020-02-11"",""Units"":1,""Revenue"":89.1975,""OrderLine"":1}]"
+2020-02-11,3900,Australia,392693,"[{""ProductID"":1001,""Date"":""2020-02-11"",""Units"":1,""Revenue"":393.6975,""OrderLine"":1}]"
+2020-02-09,1797,Australia,392306,"[{""ProductID"":502,""Date"":""2020-02-09"",""Units"":1,""Revenue"":1105.9125,""OrderLine"":1}]"
+2020-02-09,6162,Australia,392393,"[{""ProductID"":1800,""Date"":""2020-02-09"",""Units"":1,""Revenue"":655.725,""OrderLine"":1}]"
+2020-02-08,3633,Australia,392118,"[{""ProductID"":1086,""Date"":""2020-02-08"",""Units"":1,""Revenue"":83.9475,""OrderLine"":1}]"
+2020-02-08,8069,Australia,392237,"[{""ProductID"":2354,""Date"":""2020-02-08"",""Units"":1,""Revenue"":362.1975,""OrderLine"":1}]"
+2020-02-09,5252,Australia,392383,"[{""ProductID"":472,""Date"":""2020-02-09"",""Units"":1,""Revenue"":961.275,""OrderLine"":1}]"

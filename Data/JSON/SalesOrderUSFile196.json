@@ -1,0 +1,50 @@
+﻿[
+    {
+        "Date": "2022-09-23",
+        "Zip": "92879",
+        "OrderID": 977813,
+        "OrderLines": "[{\"ProductID\":1991,\"Date\":\"2022-09-23\",\"Units\":1,\"Revenue\":320.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-09-23",
+        "Zip": "94268",
+        "OrderID": 977834,
+        "OrderLines": "[{\"ProductID\":604,\"Date\":\"2022-09-23\",\"Units\":3,\"Revenue\":1495.4625,\"OrderLine\":1},{\"ProductID\":609,\"Date\":\"2022-09-23\",\"Units\":1,\"Revenue\":863.3625,\"OrderLine\":2},{\"ProductID\":572,\"Date\":\"2022-09-23\",\"Units\":1,\"Revenue\":445.9875,\"OrderLine\":3}]"
+    },
+    {
+        "Date": "2022-09-23",
+        "Zip": "90249",
+        "OrderID": 977734,
+        "OrderLines": "[{\"ProductID\":792,\"Date\":\"2022-09-23\",\"Units\":1,\"Revenue\":65.5725,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-09-23",
+        "Zip": "79018",
+        "OrderID": 977668,
+        "OrderLines": "[{\"ProductID\":586,\"Date\":\"2022-09-23\",\"Units\":1,\"Revenue\":378.7875,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-09-26",
+        "Zip": "20817",
+        "OrderID": 978218,
+        "OrderLines": "[{\"ProductID\":639,\"Date\":\"2022-09-26\",\"Units\":1,\"Revenue\":881.7375,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-09-27",
+        "Zip": "19973",
+        "OrderID": 978903,
+        "OrderLines": "[{\"ProductID\":2353,\"Date\":\"2022-09-27\",\"Units\":1,\"Revenue\":425.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-09-23",
+        "Zip": "91360",
+        "OrderID": 977755,
+        "OrderLines": "[{\"ProductID\":2054,\"Date\":\"2022-09-23\",\"Units\":1,\"Revenue\":577.4475,\"OrderLine\":1},{\"ProductID\":2253,\"Date\":\"2022-09-23\",\"Units\":1,\"Revenue\":131.1975,\"OrderLine\":2},{\"ProductID\":2252,\"Date\":\"2022-09-23\",\"Units\":1,\"Revenue\":131.1975,\"OrderLine\":3}]"
+    },
+    {
+        "Date": "2022-09-27",
+        "Zip": "36109",
+        "OrderID": 979046,
+        "OrderLines": "[{\"ProductID\":1000,\"Date\":\"2022-09-27\",\"Units\":1,\"Revenue\":99.6975,\"OrderLine\":1}]"
+    }
+]

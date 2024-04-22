@@ -1,0 +1,56 @@
+﻿[
+    {
+        "Date": "2017-08-28",
+        "Zip": "95472",
+        "OrderID": 138099,
+        "OrderLines": "[{\"ProductID\":396,\"Date\":\"2017-08-28\",\"Units\":1,\"Revenue\":876.4875,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2017-08-28",
+        "Zip": "94550",
+        "OrderID": 138081,
+        "OrderLines": "[{\"ProductID\":795,\"Date\":\"2017-08-28\",\"Units\":1,\"Revenue\":278.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2017-08-31",
+        "Zip": "29073",
+        "OrderID": 139264,
+        "OrderLines": "[{\"ProductID\":1213,\"Date\":\"2017-08-31\",\"Units\":1,\"Revenue\":566.9475,\"OrderLine\":1},{\"ProductID\":400,\"Date\":\"2017-08-31\",\"Units\":1,\"Revenue\":689.325,\"OrderLine\":2}]"
+    },
+    {
+        "Date": "2017-08-30",
+        "Zip": "50023",
+        "OrderID": 138790,
+        "OrderLines": "[{\"ProductID\":1230,\"Date\":\"2017-08-30\",\"Units\":1,\"Revenue\":524.9475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2017-08-31",
+        "Zip": "85286",
+        "OrderID": 139740,
+        "OrderLines": "[{\"ProductID\":981,\"Date\":\"2017-08-31\",\"Units\":1,\"Revenue\":157.4475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2017-08-29",
+        "Zip": "83858",
+        "OrderID": 138437,
+        "OrderLines": "[{\"ProductID\":1053,\"Date\":\"2017-08-29\",\"Units\":1,\"Revenue\":262.4475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2017-08-29",
+        "Zip": "53511",
+        "OrderID": 138297,
+        "OrderLines": "[{\"ProductID\":2064,\"Date\":\"2017-08-29\",\"Units\":1,\"Revenue\":493.4475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2017-09-01",
+        "Zip": "01028",
+        "OrderID": 139966,
+        "OrderLines": "[{\"ProductID\":843,\"Date\":\"2017-09-01\",\"Units\":1,\"Revenue\":524.9475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2017-08-31",
+        "Zip": "92377",
+        "OrderID": 139837,
+        "OrderLines": "[{\"ProductID\":1975,\"Date\":\"2017-08-31\",\"Units\":1,\"Revenue\":57.6975,\"OrderLine\":1},{\"ProductID\":1974,\"Date\":\"2017-08-31\",\"Units\":1,\"Revenue\":57.6975,\"OrderLine\":2}]"
+    }
+]

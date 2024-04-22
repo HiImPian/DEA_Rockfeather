@@ -1,0 +1,10 @@
+﻿Date,Zip,Country,OrderID,OrderLines
+2016-12-15,7187,Australia,38349,"[{""ProductID"":1116,""Date"":""2016-12-15"",""Units"":1,""Revenue"":251.9475,""OrderLine"":1},{""ProductID"":964,""Date"":""2016-12-15"",""Units"":1,""Revenue"":356.9475,""OrderLine"":2},{""ProductID"":910,""Date"":""2016-12-15"",""Units"":3,""Revenue"":1244.0925,""OrderLine"":3}]"
+2016-12-15,6605,Australia,38226,"[{""ProductID"":2255,""Date"":""2016-12-15"",""Units"":1,""Revenue"":57.6975,""OrderLine"":1},{""ProductID"":726,""Date"":""2016-12-15"",""Units"":2,""Revenue"":230.895,""OrderLine"":2}]"
+2016-12-15,7310,Australia,38370,"[{""ProductID"":1191,""Date"":""2016-12-15"",""Units"":1,""Revenue"":257.1975,""OrderLine"":1},{""ProductID"":2050,""Date"":""2016-12-15"",""Units"":1,""Revenue"":498.6975,""OrderLine"":2}]"
+2016-12-15,6528,Australia,38217,"[{""ProductID"":2332,""Date"":""2016-12-15"",""Units"":1,""Revenue"":419.9475,""OrderLine"":1}]"
+2016-12-15,742-0323,Japan,38844,"[{""ProductID"":767,""Date"":""2016-12-15"",""Units"":1,""Revenue"":104.9475,""OrderLine"":1},{""ProductID"":1974,""Date"":""2016-12-15"",""Units"":1,""Revenue"":52.4475,""OrderLine"":2},{""ProductID"":1975,""Date"":""2016-12-15"",""Units"":1,""Revenue"":52.4475,""OrderLine"":3}]"
+2016-12-15,T6V,Canada,38501,"[{""ProductID"":1210,""Date"":""2016-12-15"",""Units"":1,""Revenue"":577.4475,""OrderLine"":1},{""ProductID"":981,""Date"":""2016-12-15"",""Units"":1,""Revenue"":157.4475,""OrderLine"":2}]"
+2016-12-15,46446,Germany,38636,"[{""ProductID"":485,""Date"":""2016-12-15"",""Units"":1,""Revenue"":812.44,""OrderLine"":1},{""ProductID"":757,""Date"":""2016-12-15"",""Units"":1,""Revenue"":83.95,""OrderLine"":2},{""ProductID"":433,""Date"":""2016-12-15"",""Units"":1,""Revenue"":810.86,""OrderLine"":3}]"
+2016-12-15,722-2632,Japan,38774,"[{""ProductID"":1065,""Date"":""2016-12-15"",""Units"":1,""Revenue"":296.5725,""OrderLine"":1}]"
+2016-12-15,47803,Germany,38653,"[{""ProductID"":645,""Date"":""2016-12-15"",""Units"":1,""Revenue"":706.13,""OrderLine"":1}]"

@@ -1,0 +1,50 @@
+﻿[
+    {
+        "Date": "2020-03-31",
+        "Zip": "55910",
+        "OrderID": 518075,
+        "OrderLines": "[{\"ProductID\":1990,\"Date\":\"2020-03-31\",\"Units\":1,\"Revenue\":262.4475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2020-03-31",
+        "Zip": "66749",
+        "OrderID": 518254,
+        "OrderLines": "[{\"ProductID\":946,\"Date\":\"2020-03-31\",\"Units\":1,\"Revenue\":692.9475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2020-03-31",
+        "Zip": "55024",
+        "OrderID": 518015,
+        "OrderLines": "[{\"ProductID\":2280,\"Date\":\"2020-03-31\",\"Units\":2,\"Revenue\":309.645,\"OrderLine\":1},{\"ProductID\":2239,\"Date\":\"2020-03-31\",\"Units\":1,\"Revenue\":125.9475,\"OrderLine\":2},{\"ProductID\":2238,\"Date\":\"2020-03-31\",\"Units\":1,\"Revenue\":125.9475,\"OrderLine\":3}]"
+    },
+    {
+        "Date": "2020-03-31",
+        "Zip": "66215",
+        "OrderID": 518246,
+        "OrderLines": "[{\"ProductID\":964,\"Date\":\"2020-03-31\",\"Units\":1,\"Revenue\":320.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2020-03-31",
+        "Zip": "41094",
+        "OrderID": 517707,
+        "OrderLines": "[{\"ProductID\":2215,\"Date\":\"2020-03-31\",\"Units\":1,\"Revenue\":335.9475,\"OrderLine\":1},{\"ProductID\":964,\"Date\":\"2020-03-31\",\"Units\":1,\"Revenue\":330.6975,\"OrderLine\":2}]"
+    },
+    {
+        "Date": "2020-03-31",
+        "Zip": "52253",
+        "OrderID": 517891,
+        "OrderLines": "[{\"ProductID\":36,\"Date\":\"2020-03-31\",\"Units\":1,\"Revenue\":456.225,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2020-03-31",
+        "Zip": "55418",
+        "OrderID": 518057,
+        "OrderLines": "[{\"ProductID\":1041,\"Date\":\"2020-03-31\",\"Units\":1,\"Revenue\":997.2375,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2020-03-31",
+        "Zip": "34957",
+        "OrderID": 517528,
+        "OrderLines": "[{\"ProductID\":2331,\"Date\":\"2020-03-31\",\"Units\":1,\"Revenue\":540.6975,\"OrderLine\":1},{\"ProductID\":565,\"Date\":\"2020-03-31\",\"Units\":1,\"Revenue\":890.6625,\"OrderLine\":2},{\"ProductID\":1000,\"Date\":\"2020-03-31\",\"Units\":2,\"Revenue\":178.395,\"OrderLine\":3}]"
+    }
+]

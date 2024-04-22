@@ -1,0 +1,11 @@
+﻿Date,Zip,Country,OrderID,OrderLines
+2023-12-02,2397,Australia,900684,"[{""ProductID"":2354,""Date"":""2023-12-02"",""Units"":1,""Revenue"":314.9475,""OrderLine"":1}]"
+2023-11-30,960-0678,Japan,900160,"[{""ProductID"":763,""Date"":""2023-11-30"",""Units"":1,""Revenue"":333.3225,""OrderLine"":1}]"
+2023-12-02,3402,Australia,900735,"[{""ProductID"":1182,""Date"":""2023-12-02"",""Units"":1,""Revenue"":157.4475,""OrderLine"":1}]"
+2023-11-30,960-1409,Japan,900177,"[{""ProductID"":780,""Date"":""2023-11-30"",""Units"":1,""Revenue"":325.4475,""OrderLine"":1},{""ProductID"":779,""Date"":""2023-11-30"",""Units"":1,""Revenue"":325.4475,""OrderLine"":2}]"
+2023-11-30,771-5179,Japan,899995,"[{""ProductID"":793,""Date"":""2023-11-30"",""Units"":1,""Revenue"":83.9475,""OrderLine"":1}]"
+2023-12-03,3709,Australia,900977,"[{""ProductID"":528,""Date"":""2023-12-03"",""Units"":1,""Revenue"":112.77,""OrderLine"":1},{""ProductID"":529,""Date"":""2023-12-03"",""Units"":1,""Revenue"":112.77,""OrderLine"":2},{""ProductID"":532,""Date"":""2023-12-03"",""Units"":1,""Revenue"":112.77,""OrderLine"":3},{""ProductID"":533,""Date"":""2023-12-03"",""Units"":1,""Revenue"":112.77,""OrderLine"":4},{""ProductID"":524,""Date"":""2023-12-03"",""Units"":1,""Revenue"":112.77,""OrderLine"":5},{""ProductID"":525,""Date"":""2023-12-03"",""Units"":1,""Revenue"":112.77,""OrderLine"":6},{""ProductID"":528,""Date"":""2023-12-03"",""Units"":1,""Revenue"":112.77,""OrderLine"":7},{""ProductID"":530,""Date"":""2023-12-03"",""Units"":1,""Revenue"":112.77,""OrderLine"":8},{""ProductID"":531,""Date"":""2023-12-03"",""Units"":1,""Revenue"":112.77,""OrderLine"":9},{""ProductID"":533,""Date"":""2023-12-03"",""Units"":1,""Revenue"":112.77,""OrderLine"":10},{""ProductID"":534,""Date"":""2023-12-03"",""Units"":1,""Revenue"":112.77,""OrderLine"":11}]"
+2023-12-03,8009,Australia,901050,"[{""ProductID"":475,""Date"":""2023-12-03"",""Units"":1,""Revenue"":1085.9625,""OrderLine"":1}]"
+2023-12-02,8103,Australia,900854,"[{""ProductID"":475,""Date"":""2023-12-02"",""Units"":1,""Revenue"":1085.9625,""OrderLine"":1}]"
+2023-12-02,5454,Australia,900814,"[{""ProductID"":396,""Date"":""2023-12-02"",""Units"":1,""Revenue"":945.2625,""OrderLine"":1}]"
+2023-12-02,2071,Australia,900668,"[{""ProductID"":2394,""Date"":""2023-12-02"",""Units"":1,""Revenue"":131.1975,""OrderLine"":1}]"

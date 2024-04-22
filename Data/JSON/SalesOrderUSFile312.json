@@ -1,0 +1,44 @@
+﻿[
+    {
+        "Date": "2021-12-31",
+        "Zip": "83210",
+        "OrderID": 836629,
+        "OrderLines": "[{\"ProductID\":792,\"Date\":\"2021-12-31\",\"Units\":1,\"Revenue\":65.5725,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2021-12-31",
+        "Zip": "33513",
+        "OrderID": 835962,
+        "OrderLines": "[{\"ProductID\":475,\"Date\":\"2021-12-31\",\"Units\":1,\"Revenue\":1028.7375,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2021-12-31",
+        "Zip": "40505",
+        "OrderID": 836138,
+        "OrderLines": "[{\"ProductID\":2064,\"Date\":\"2021-12-31\",\"Units\":1,\"Revenue\":506.5725,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2021-12-30",
+        "Zip": "92883",
+        "OrderID": 835513,
+        "OrderLines": "[{\"ProductID\":1916,\"Date\":\"2021-12-30\",\"Units\":1,\"Revenue\":288.6975,\"OrderLine\":1},{\"ProductID\":777,\"Date\":\"2021-12-30\",\"Units\":1,\"Revenue\":115.4475,\"OrderLine\":2},{\"ProductID\":780,\"Date\":\"2021-12-30\",\"Units\":1,\"Revenue\":325.4475,\"OrderLine\":3},{\"ProductID\":2253,\"Date\":\"2021-12-30\",\"Units\":1,\"Revenue\":131.1975,\"OrderLine\":4},{\"ProductID\":793,\"Date\":\"2021-12-30\",\"Units\":1,\"Revenue\":81.3225,\"OrderLine\":5},{\"ProductID\":779,\"Date\":\"2021-12-30\",\"Units\":1,\"Revenue\":325.4475,\"OrderLine\":6}]"
+    },
+    {
+        "Date": "2021-12-31",
+        "Zip": "85027",
+        "OrderID": 836685,
+        "OrderLines": "[{\"ProductID\":734,\"Date\":\"2021-12-31\",\"Units\":1,\"Revenue\":351.6975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2021-12-31",
+        "Zip": "84005",
+        "OrderID": 836653,
+        "OrderLines": "[{\"ProductID\":2239,\"Date\":\"2021-12-31\",\"Units\":1,\"Revenue\":125.9475,\"OrderLine\":1},{\"ProductID\":2238,\"Date\":\"2021-12-31\",\"Units\":1,\"Revenue\":125.9475,\"OrderLine\":2}]"
+    },
+    {
+        "Date": "2021-12-31",
+        "Zip": "78660",
+        "OrderID": 836602,
+        "OrderLines": "[{\"ProductID\":2331,\"Date\":\"2021-12-31\",\"Units\":1,\"Revenue\":582.6975,\"OrderLine\":1}]"
+    }
+]

@@ -1,0 +1,38 @@
+﻿[
+    {
+        "Date": "2016-08-15",
+        "Zip": "92646",
+        "OrderID": 38993,
+        "OrderLines": "[{\"ProductID\":940,\"Date\":\"2016-08-15\",\"Units\":1,\"Revenue\":687.6975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2016-08-15",
+        "Zip": "94564",
+        "OrderID": 39196,
+        "OrderLines": "[{\"ProductID\":989,\"Date\":\"2016-08-15\",\"Units\":1,\"Revenue\":467.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2016-08-15",
+        "Zip": "97222",
+        "OrderID": 39437,
+        "OrderLines": "[{\"ProductID\":1380,\"Date\":\"2016-08-15\",\"Units\":1,\"Revenue\":314.895,\"OrderLine\":1},{\"ProductID\":2050,\"Date\":\"2016-08-15\",\"Units\":1,\"Revenue\":498.6975,\"OrderLine\":2}]"
+    },
+    {
+        "Date": "2016-09-15",
+        "Zip": "06612",
+        "OrderID": 39762,
+        "OrderLines": "[{\"ProductID\":1537,\"Date\":\"2016-09-15\",\"Units\":1,\"Revenue\":288.645,\"OrderLine\":1},{\"ProductID\":1538,\"Date\":\"2016-09-15\",\"Units\":1,\"Revenue\":288.645,\"OrderLine\":2},{\"ProductID\":443,\"Date\":\"2016-09-15\",\"Units\":1,\"Revenue\":799.05,\"OrderLine\":3}]"
+    },
+    {
+        "Date": "2016-08-15",
+        "Zip": "92154",
+        "OrderID": 38918,
+        "OrderLines": "[{\"ProductID\":1105,\"Date\":\"2016-08-15\",\"Units\":1,\"Revenue\":246.6975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2016-09-15",
+        "Zip": "02330",
+        "OrderID": 39628,
+        "OrderLines": "[{\"ProductID\":396,\"Date\":\"2016-09-15\",\"Units\":1,\"Revenue\":865.725,\"OrderLine\":1}]"
+    }
+]

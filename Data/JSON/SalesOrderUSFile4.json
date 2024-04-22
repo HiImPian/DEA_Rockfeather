@@ -1,0 +1,50 @@
+﻿[
+    {
+        "Date": "2023-12-26",
+        "Zip": "93710",
+        "OrderID": 1206270,
+        "OrderLines": "[{\"ProductID\":1980,\"Date\":\"2023-12-26\",\"Units\":3,\"Revenue\":503.8425,\"OrderLine\":1},{\"ProductID\":1981,\"Date\":\"2023-12-26\",\"Units\":3,\"Revenue\":503.8425,\"OrderLine\":2}]"
+    },
+    {
+        "Date": "2023-12-27",
+        "Zip": "85546",
+        "OrderID": 1207333,
+        "OrderLines": "[{\"ProductID\":2354,\"Date\":\"2023-12-27\",\"Units\":1,\"Revenue\":383.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2023-12-27",
+        "Zip": "36092",
+        "OrderID": 1206708,
+        "OrderLines": "[{\"ProductID\":2236,\"Date\":\"2023-12-27\",\"Units\":1,\"Revenue\":178.4475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2023-12-26",
+        "Zip": "92882",
+        "OrderID": 1206254,
+        "OrderLines": "[{\"ProductID\":1943,\"Date\":\"2023-12-26\",\"Units\":1,\"Revenue\":120.6975,\"OrderLine\":1},{\"ProductID\":1935,\"Date\":\"2023-12-26\",\"Units\":1,\"Revenue\":131.1975,\"OrderLine\":2},{\"ProductID\":1942,\"Date\":\"2023-12-26\",\"Units\":1,\"Revenue\":120.6975,\"OrderLine\":3}]"
+    },
+    {
+        "Date": "2023-12-27",
+        "Zip": "38305",
+        "OrderID": 1206779,
+        "OrderLines": "[{\"ProductID\":2239,\"Date\":\"2023-12-27\",\"Units\":1,\"Revenue\":128.5725,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2023-12-27",
+        "Zip": "74145",
+        "OrderID": 1207109,
+        "OrderLines": "[{\"ProductID\":2215,\"Date\":\"2023-12-27\",\"Units\":1,\"Revenue\":377.9475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2023-12-27",
+        "Zip": "75248",
+        "OrderID": 1207136,
+        "OrderLines": "[{\"ProductID\":2389,\"Date\":\"2023-12-27\",\"Units\":1,\"Revenue\":870.45,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2023-12-26",
+        "Zip": "40272",
+        "OrderID": 1206004,
+        "OrderLines": "[{\"ProductID\":809,\"Date\":\"2023-12-26\",\"Units\":1,\"Revenue\":225.6975,\"OrderLine\":1}]"
+    }
+]

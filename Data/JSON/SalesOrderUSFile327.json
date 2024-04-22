@@ -1,0 +1,50 @@
+﻿[
+    {
+        "Date": "2021-11-22",
+        "Zip": "93306",
+        "OrderID": 815831,
+        "OrderLines": "[{\"ProductID\":1353,\"Date\":\"2021-11-22\",\"Units\":1,\"Revenue\":370.02,\"OrderLine\":1},{\"ProductID\":1484,\"Date\":\"2021-11-22\",\"Units\":1,\"Revenue\":83.895,\"OrderLine\":2}]"
+    },
+    {
+        "Date": "2021-11-23",
+        "Zip": "53130",
+        "OrderID": 816113,
+        "OrderLines": "[{\"ProductID\":681,\"Date\":\"2021-11-23\",\"Units\":1,\"Revenue\":730.8,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2021-11-23",
+        "Zip": "91384",
+        "OrderID": 816264,
+        "OrderLines": "[{\"ProductID\":763,\"Date\":\"2021-11-23\",\"Units\":1,\"Revenue\":309.6975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2021-11-22",
+        "Zip": "07675",
+        "OrderID": 815398,
+        "OrderLines": "[{\"ProductID\":1201,\"Date\":\"2021-11-22\",\"Units\":1,\"Revenue\":577.4475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2021-11-23",
+        "Zip": "91701",
+        "OrderID": 816267,
+        "OrderLines": "[{\"ProductID\":792,\"Date\":\"2021-11-23\",\"Units\":1,\"Revenue\":65.5725,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2021-11-22",
+        "Zip": "93510",
+        "OrderID": 815835,
+        "OrderLines": "[{\"ProductID\":1436,\"Date\":\"2021-11-22\",\"Units\":1,\"Revenue\":341.145,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2021-11-23",
+        "Zip": "33433",
+        "OrderID": 815997,
+        "OrderLines": "[{\"ProductID\":103,\"Date\":\"2021-11-23\",\"Units\":1,\"Revenue\":855.225,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2021-11-22",
+        "Zip": "95662",
+        "OrderID": 815873,
+        "OrderLines": "[{\"ProductID\":2262,\"Date\":\"2021-11-22\",\"Units\":1,\"Revenue\":304.4475,\"OrderLine\":1},{\"ProductID\":2212,\"Date\":\"2021-11-22\",\"Units\":1,\"Revenue\":89.1975,\"OrderLine\":2},{\"ProductID\":2263,\"Date\":\"2021-11-22\",\"Units\":1,\"Revenue\":304.4475,\"OrderLine\":3}]"
+    }
+]

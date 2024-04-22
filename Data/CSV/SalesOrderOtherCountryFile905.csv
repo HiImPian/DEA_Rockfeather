@@ -1,0 +1,10 @@
+﻿Date,Zip,Country,OrderID,OrderLines
+2017-07-25,722-2322,Japan,89519,"[{""ProductID"":2050,""Date"":""2017-07-25"",""Units"":1,""Revenue"":501.3225,""OrderLine"":1}]"
+2017-07-19,750-0008,Japan,88626,"[{""ProductID"":921,""Date"":""2017-07-19"",""Units"":1,""Revenue"":524.9475,""OrderLine"":1}]"
+2017-07-20,T6R,Canada,88816,"[{""ProductID"":979,""Date"":""2017-07-20"",""Units"":1,""Revenue"":409.4475,""OrderLine"":1}]"
+2017-07-25,53879,Germany,89505,"[{""ProductID"":1186,""Date"":""2017-07-25"",""Units"":1,""Revenue"":425.2,""OrderLine"":1}]"
+2017-07-22,9479,Mexico,89163,"[{""ProductID"":2240,""Date"":""2017-07-22"",""Units"":1,""Revenue"":86.57,""OrderLine"":1}]"
+2017-07-20,771-5324,Japan,88890,"[{""ProductID"":753,""Date"":""2017-07-20"",""Units"":1,""Revenue"":244.0725,""OrderLine"":1}]"
+2017-07-20,7270,Australia,88805,"[{""ProductID"":2012,""Date"":""2017-07-20"",""Units"":1,""Revenue"":380.5725,""OrderLine"":1}]"
+2017-07-24,724-0615,Japan,89292,"[{""ProductID"":2235,""Date"":""2017-07-24"",""Units"":1,""Revenue"":65.5725,""OrderLine"":1}]"
+2017-07-21,101001,Nigeria,89141,"[{""ProductID"":2352,""Date"":""2017-07-21"",""Units"":1,""Revenue"":367.45,""OrderLine"":1},{""ProductID"":2064,""Date"":""2017-07-21"",""Units"":1,""Revenue"":493.45,""OrderLine"":2},{""ProductID"":2205,""Date"":""2017-07-21"",""Units"":1,""Revenue"":173.2,""OrderLine"":3},{""ProductID"":2373,""Date"":""2017-07-21"",""Units"":1,""Revenue"":556.45,""OrderLine"":4},{""ProductID"":768,""Date"":""2017-07-21"",""Units"":1,""Revenue"":104.95,""OrderLine"":5},{""ProductID"":838,""Date"":""2017-07-21"",""Units"":1,""Revenue"":939.7,""OrderLine"":6},{""ProductID"":767,""Date"":""2017-07-21"",""Units"":1,""Revenue"":104.95,""OrderLine"":7},{""ProductID"":757,""Date"":""2017-07-21"",""Units"":1,""Revenue"":83.95,""OrderLine"":8},{""ProductID"":837,""Date"":""2017-07-21"",""Units"":1,""Revenue"":813.7,""OrderLine"":9},{""ProductID"":2204,""Date"":""2017-07-21"",""Units"":1,""Revenue"":173.2,""OrderLine"":10},{""ProductID"":757,""Date"":""2017-07-21"",""Units"":1,""Revenue"":83.95,""OrderLine"":11}]"

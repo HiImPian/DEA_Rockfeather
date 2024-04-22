@@ -1,0 +1,56 @@
+﻿[
+    {
+        "Date": "2021-03-26",
+        "Zip": "02035",
+        "OrderID": 689448,
+        "OrderLines": "[{\"ProductID\":927,\"Date\":\"2021-03-26\",\"Units\":1,\"Revenue\":451.4475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2021-03-26",
+        "Zip": "55088",
+        "OrderID": 689796,
+        "OrderLines": "[{\"ProductID\":2053,\"Date\":\"2021-03-26\",\"Units\":1,\"Revenue\":330.6975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2021-03-26",
+        "Zip": "34275",
+        "OrderID": 689620,
+        "OrderLines": "[{\"ProductID\":644,\"Date\":\"2021-03-26\",\"Units\":1,\"Revenue\":871.2375,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2021-03-26",
+        "Zip": "21040",
+        "OrderID": 689524,
+        "OrderLines": "[{\"ProductID\":758,\"Date\":\"2021-03-26\",\"Units\":1,\"Revenue\":73.4475,\"OrderLine\":1},{\"ProductID\":767,\"Date\":\"2021-03-26\",\"Units\":1,\"Revenue\":94.4475,\"OrderLine\":2}]"
+    },
+    {
+        "Date": "2021-03-25",
+        "Zip": "74647",
+        "OrderID": 689175,
+        "OrderLines": "[{\"ProductID\":2388,\"Date\":\"2021-03-25\",\"Units\":1,\"Revenue\":314.9475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2021-03-25",
+        "Zip": "64127",
+        "OrderID": 689096,
+        "OrderLines": "[{\"ProductID\":689,\"Date\":\"2021-03-25\",\"Units\":1,\"Revenue\":340.9875,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2021-03-26",
+        "Zip": "07002",
+        "OrderID": 689481,
+        "OrderLines": "[{\"ProductID\":1226,\"Date\":\"2021-03-26\",\"Units\":1,\"Revenue\":551.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2021-03-25",
+        "Zip": "91911",
+        "OrderID": 689317,
+        "OrderLines": "[{\"ProductID\":788,\"Date\":\"2021-03-25\",\"Units\":1,\"Revenue\":314.9475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2021-03-25",
+        "Zip": "76148",
+        "OrderID": 689198,
+        "OrderLines": "[{\"ProductID\":967,\"Date\":\"2021-03-25\",\"Units\":1,\"Revenue\":656.1975,\"OrderLine\":1}]"
+    }
+]

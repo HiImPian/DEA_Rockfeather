@@ -1,0 +1,56 @@
+﻿[
+    {
+        "Date": "2022-07-26",
+        "Zip": "58545",
+        "OrderID": 946130,
+        "OrderLines": "[{\"ProductID\":1187,\"Date\":\"2022-07-26\",\"Units\":1,\"Revenue\":451.4475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-07-27",
+        "Zip": "06880",
+        "OrderID": 946510,
+        "OrderLines": "[{\"ProductID\":1859,\"Date\":\"2022-07-27\",\"Units\":1,\"Revenue\":157.4475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-07-25",
+        "Zip": "76109",
+        "OrderID": 945546,
+        "OrderLines": "[{\"ProductID\":2045,\"Date\":\"2022-07-25\",\"Units\":1,\"Revenue\":430.4475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-07-25",
+        "Zip": "92708",
+        "OrderID": 945682,
+        "OrderLines": "[{\"ProductID\":2332,\"Date\":\"2022-07-25\",\"Units\":1,\"Revenue\":446.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-07-26",
+        "Zip": "97236",
+        "OrderID": 946471,
+        "OrderLines": "[{\"ProductID\":2331,\"Date\":\"2022-07-26\",\"Units\":1,\"Revenue\":582.6975,\"OrderLine\":1},{\"ProductID\":432,\"Date\":\"2022-07-26\",\"Units\":1,\"Revenue\":923.7375,\"OrderLine\":2}]"
+    },
+    {
+        "Date": "2022-07-27",
+        "Zip": "07642",
+        "OrderID": 946514,
+        "OrderLines": "[{\"ProductID\":777,\"Date\":\"2022-07-27\",\"Units\":1,\"Revenue\":115.4475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-07-26",
+        "Zip": "33811",
+        "OrderID": 945912,
+        "OrderLines": "[{\"ProductID\":2055,\"Date\":\"2022-07-26\",\"Units\":1,\"Revenue\":572.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-07-26",
+        "Zip": "40033",
+        "OrderID": 945987,
+        "OrderLines": "[{\"ProductID\":2086,\"Date\":\"2022-07-26\",\"Units\":1,\"Revenue\":230.9475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-07-26",
+        "Zip": "47803",
+        "OrderID": 946031,
+        "OrderLines": "[{\"ProductID\":644,\"Date\":\"2022-07-26\",\"Units\":1,\"Revenue\":872.55,\"OrderLine\":1}]"
+    }
+]

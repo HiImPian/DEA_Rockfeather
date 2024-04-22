@@ -1,0 +1,56 @@
+﻿[
+    {
+        "Date": "2018-08-15",
+        "Zip": "20853",
+        "OrderID": 270609,
+        "OrderLines": "[{\"ProductID\":1186,\"Date\":\"2018-08-15\",\"Units\":1,\"Revenue\":425.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2018-08-14",
+        "Zip": "68512",
+        "OrderID": 270385,
+        "OrderLines": "[{\"ProductID\":967,\"Date\":\"2018-08-14\",\"Units\":1,\"Revenue\":656.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2018-08-15",
+        "Zip": "73059",
+        "OrderID": 270804,
+        "OrderLines": "[{\"ProductID\":2192,\"Date\":\"2018-08-15\",\"Units\":1,\"Revenue\":209.9475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2018-08-16",
+        "Zip": "07080",
+        "OrderID": 271055,
+        "OrderLines": "[{\"ProductID\":2252,\"Date\":\"2018-08-16\",\"Units\":1,\"Revenue\":136.4475,\"OrderLine\":1},{\"ProductID\":2253,\"Date\":\"2018-08-16\",\"Units\":1,\"Revenue\":136.4475,\"OrderLine\":2}]"
+    },
+    {
+        "Date": "2018-08-14",
+        "Zip": "94803",
+        "OrderID": 270545,
+        "OrderLines": "[{\"ProductID\":1937,\"Date\":\"2018-08-14\",\"Units\":1,\"Revenue\":286.0725,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2018-08-14",
+        "Zip": "52073",
+        "OrderID": 270334,
+        "OrderLines": "[{\"ProductID\":485,\"Date\":\"2018-08-14\",\"Units\":1,\"Revenue\":836.85,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2018-08-16",
+        "Zip": "29469",
+        "OrderID": 271101,
+        "OrderLines": "[{\"ProductID\":1132,\"Date\":\"2018-08-16\",\"Units\":1,\"Revenue\":629.9475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2018-08-14",
+        "Zip": "36303",
+        "OrderID": 270282,
+        "OrderLines": "[{\"ProductID\":769,\"Date\":\"2018-08-14\",\"Units\":1,\"Revenue\":262.4475,\"OrderLine\":1},{\"ProductID\":770,\"Date\":\"2018-08-14\",\"Units\":1,\"Revenue\":262.4475,\"OrderLine\":2}]"
+    },
+    {
+        "Date": "2018-08-14",
+        "Zip": "06424",
+        "OrderID": 270184,
+        "OrderLines": "[{\"ProductID\":1005,\"Date\":\"2018-08-14\",\"Units\":1,\"Revenue\":107.5725,\"OrderLine\":1}]"
+    }
+]

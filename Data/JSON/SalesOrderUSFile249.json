@@ -1,0 +1,50 @@
+﻿[
+    {
+        "Date": "2022-05-31",
+        "Zip": "70058",
+        "OrderID": 915620,
+        "OrderLines": "[{\"ProductID\":1987,\"Date\":\"2022-05-31\",\"Units\":1,\"Revenue\":162.6975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-05-31",
+        "Zip": "67432",
+        "OrderID": 915568,
+        "OrderLines": "[{\"ProductID\":791,\"Date\":\"2022-05-31\",\"Units\":1,\"Revenue\":65.5725,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-05-31",
+        "Zip": "77707",
+        "OrderID": 915957,
+        "OrderLines": "[{\"ProductID\":396,\"Date\":\"2022-05-31\",\"Units\":1,\"Revenue\":907.9875,\"OrderLine\":1},{\"ProductID\":475,\"Date\":\"2022-05-31\",\"Units\":2,\"Revenue\":2057.475,\"OrderLine\":2},{\"ProductID\":551,\"Date\":\"2022-05-31\",\"Units\":1,\"Revenue\":923.7375,\"OrderLine\":3}]"
+    },
+    {
+        "Date": "2022-05-31",
+        "Zip": "75109",
+        "OrderID": 915833,
+        "OrderLines": "[{\"ProductID\":1982,\"Date\":\"2022-05-31\",\"Units\":1,\"Revenue\":293.9475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-05-31",
+        "Zip": "76052",
+        "OrderID": 915876,
+        "OrderLines": "[{\"ProductID\":792,\"Date\":\"2022-05-31\",\"Units\":1,\"Revenue\":65.5725,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-05-31",
+        "Zip": "56355",
+        "OrderID": 915328,
+        "OrderLines": "[{\"ProductID\":1093,\"Date\":\"2022-05-31\",\"Units\":1,\"Revenue\":57.6975,\"OrderLine\":1},{\"ProductID\":1112,\"Date\":\"2022-05-31\",\"Units\":1,\"Revenue\":120.6975,\"OrderLine\":2}]"
+    },
+    {
+        "Date": "2022-05-31",
+        "Zip": "72120",
+        "OrderID": 915705,
+        "OrderLines": "[{\"ProductID\":2064,\"Date\":\"2022-05-31\",\"Units\":1,\"Revenue\":506.5725,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-05-31",
+        "Zip": "70058",
+        "OrderID": 915620,
+        "OrderLines": "[{\"ProductID\":1987,\"Date\":\"2022-05-31\",\"Units\":1,\"Revenue\":162.6975,\"OrderLine\":1}]"
+    }
+]

@@ -1,0 +1,11 @@
+﻿Date,Zip,Country,OrderID,OrderLines
+2023-05-24,3570,Australia,820316,"[{""ProductID"":770,""Date"":""2023-05-24"",""Units"":1,""Revenue"":286.0725,""OrderLine"":1}]"
+2023-05-27,961-0824,Japan,821339,"[{""ProductID"":689,""Date"":""2023-05-27"",""Units"":1,""Revenue"":357.7875,""OrderLine"":1}]"
+2023-05-26,9080,Mexico,820921,"[{""ProductID"":2238,""Date"":""2023-05-26"",""Units"":1,""Revenue"":128.57,""OrderLine"":1},{""ProductID"":2239,""Date"":""2023-05-26"",""Units"":1,""Revenue"":128.57,""OrderLine"":2},{""ProductID"":2352,""Date"":""2023-05-26"",""Units"":1,""Revenue"":372.7,""OrderLine"":3},{""ProductID"":760,""Date"":""2023-05-26"",""Units"":2,""Revenue"":314.9,""OrderLine"":4}]"
+2023-05-26,3634,Australia,820762,"[{""ProductID"":513,""Date"":""2023-05-26"",""Units"":1,""Revenue"":314.895,""OrderLine"":1},{""ProductID"":516,""Date"":""2023-05-26"",""Units"":1,""Revenue"":314.895,""OrderLine"":2},{""ProductID"":517,""Date"":""2023-05-26"",""Units"":1,""Revenue"":314.895,""OrderLine"":3},{""ProductID"":520,""Date"":""2023-05-26"",""Units"":1,""Revenue"":314.895,""OrderLine"":4},{""ProductID"":521,""Date"":""2023-05-26"",""Units"":1,""Revenue"":314.895,""OrderLine"":5},{""ProductID"":522,""Date"":""2023-05-26"",""Units"":1,""Revenue"":314.895,""OrderLine"":6}]"
+2023-05-24,5157,Australia,820348,"[{""ProductID"":759,""Date"":""2023-05-24"",""Units"":1,""Revenue"":162.6975,""OrderLine"":1}]"
+2023-05-24,9080,Mexico,820517,"[{""ProductID"":491,""Date"":""2023-05-24"",""Units"":1,""Revenue"":943.95,""OrderLine"":1}]"
+2023-05-27,2059,Australia,820964,"[{""ProductID"":650,""Date"":""2023-05-27"",""Units"":1,""Revenue"":498.4875,""OrderLine"":1}]"
+2023-05-26,8580,Mexico,820920,"[{""ProductID"":689,""Date"":""2023-05-26"",""Units"":1,""Revenue"":357.79,""OrderLine"":1}]"
+2023-05-27,961-0836,Japan,821340,"[{""ProductID"":1226,""Date"":""2023-05-27"",""Units"":1,""Revenue"":556.4475,""OrderLine"":1}]"
+2023-05-27,M4X,Canada,821189,"[{""ProductID"":826,""Date"":""2023-05-27"",""Units"":1,""Revenue"":1013.1975,""OrderLine"":1}]"

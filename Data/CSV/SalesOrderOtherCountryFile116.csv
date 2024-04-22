@@ -1,0 +1,11 @@
+﻿Date,Zip,Country,OrderID,OrderLines
+2023-04-06,960-0616,Japan,807968,"[{""ProductID"":435,""Date"":""2023-04-06"",""Units"":1,""Revenue"":1679.7375,""OrderLine"":1}]"
+2023-04-06,3753,Australia,807866,"[{""ProductID"":515,""Date"":""2023-04-06"",""Units"":1,""Revenue"":307.02,""OrderLine"":1},{""ProductID"":392,""Date"":""2023-04-06"",""Units"":1,""Revenue"":307.02,""OrderLine"":2},{""ProductID"":513,""Date"":""2023-04-06"",""Units"":1,""Revenue"":307.02,""OrderLine"":3},{""ProductID"":517,""Date"":""2023-04-06"",""Units"":1,""Revenue"":307.02,""OrderLine"":4},{""ProductID"":521,""Date"":""2023-04-06"",""Units"":1,""Revenue"":307.02,""OrderLine"":5},{""ProductID"":518,""Date"":""2023-04-06"",""Units"":1,""Revenue"":307.02,""OrderLine"":6},{""ProductID"":519,""Date"":""2023-04-06"",""Units"":1,""Revenue"":307.02,""OrderLine"":7},{""ProductID"":522,""Date"":""2023-04-06"",""Units"":1,""Revenue"":307.02,""OrderLine"":8}]"
+2023-04-05,40883,Germany,807715,"[{""ProductID"":475,""Date"":""2023-04-05"",""Units"":1,""Revenue"":1085.96,""OrderLine"":1}]"
+2023-04-06,2660,Australia,807832,"[{""ProductID"":418,""Date"":""2023-04-06"",""Units"":1,""Revenue"":902.7375,""OrderLine"":1},{""ProductID"":778,""Date"":""2023-04-06"",""Units"":1,""Revenue"":121.7475,""OrderLine"":2},{""ProductID"":777,""Date"":""2023-04-06"",""Units"":1,""Revenue"":121.7475,""OrderLine"":3}]"
+2023-04-03,742-0201,Japan,807293,"[{""ProductID"":1081,""Date"":""2023-04-03"",""Units"":1,""Revenue"":236.1975,""OrderLine"":1}]"
+2023-04-03,5121,Australia,807229,"[{""ProductID"":567,""Date"":""2023-04-03"",""Units"":1,""Revenue"":865.9875,""OrderLine"":1}]"
+2023-04-06,3531,Australia,807858,"[{""ProductID"":2067,""Date"":""2023-04-06"",""Units"":1,""Revenue"":535.4475,""OrderLine"":1}]"
+2023-04-05,722-0334,Japan,807733,"[{""ProductID"":1425,""Date"":""2023-04-05"",""Units"":1,""Revenue"":307.02,""OrderLine"":1}]"
+2023-04-03,9704,Mexico,807343,"[{""ProductID"":635,""Date"":""2023-04-03"",""Units"":1,""Revenue"":884.36,""OrderLine"":1}]"
+2023-04-05,3951,Australia,807648,"[{""ProductID"":559,""Date"":""2023-04-05"",""Units"":1,""Revenue"":650.7375,""OrderLine"":1}]"

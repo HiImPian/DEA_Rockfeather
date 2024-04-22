@@ -1,0 +1,20 @@
+﻿[
+    {
+        "Date": "2021-12-10",
+        "Zip": "40210",
+        "OrderID": 823128,
+        "OrderLines": "[{\"ProductID\":791,\"Date\":\"2021-12-10\",\"Units\":1,\"Revenue\":65.5725,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2021-12-10",
+        "Zip": "75062",
+        "OrderID": 823246,
+        "OrderLines": "[{\"ProductID\":475,\"Date\":\"2021-12-10\",\"Units\":1,\"Revenue\":1028.7375,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2021-12-10",
+        "Zip": "29445",
+        "OrderID": 822991,
+        "OrderLines": "[{\"ProductID\":793,\"Date\":\"2021-12-10\",\"Units\":1,\"Revenue\":78.6975,\"OrderLine\":1}]"
+    }
+]

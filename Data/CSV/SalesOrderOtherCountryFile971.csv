@@ -1,0 +1,10 @@
+﻿Date,Zip,Country,OrderID,OrderLines
+2016-09-15,6720,Australia,27157,"[{""ProductID"":573,""Date"":""2016-09-15"",""Units"":1,""Revenue"":280.6125,""OrderLine"":1}]"
+2016-09-15,5157,Australia,26796,"[{""ProductID"":901,""Date"":""2016-09-15"",""Units"":1,""Revenue"":409.4475,""OrderLine"":1},{""ProductID"":757,""Date"":""2016-09-15"",""Units"":1,""Revenue"":83.9475,""OrderLine"":2},{""ProductID"":838,""Date"":""2016-09-15"",""Units"":1,""Revenue"":929.1975,""OrderLine"":3}]"
+2016-09-15,3833,Australia,26338,"[{""ProductID"":599,""Date"":""2016-09-15"",""Units"":1,""Revenue"":753.6375,""OrderLine"":1}]"
+2016-09-15,6574,Australia,27145,"[{""ProductID"":1191,""Date"":""2016-09-15"",""Units"":1,""Revenue"":262.4475,""OrderLine"":1}]"
+2016-09-15,3121,Australia,26001,"[{""ProductID"":475,""Date"":""2016-09-15"",""Units"":1,""Revenue"":970.2,""OrderLine"":1},{""ProductID"":443,""Date"":""2016-09-15"",""Units"":2,""Revenue"":1581.825,""OrderLine"":2}]"
+2016-09-15,2714,Australia,25842,"[{""ProductID"":597,""Date"":""2016-09-15"",""Units"":1,""Revenue"":892.2375,""OrderLine"":1},{""ProductID"":687,""Date"":""2016-09-15"",""Units"":1,""Revenue"":445.9875,""OrderLine"":2}]"
+2016-09-15,5353,Australia,26863,"[{""ProductID"":2277,""Date"":""2016-09-15"",""Units"":1,""Revenue"":251.9475,""OrderLine"":1},{""ProductID"":2056,""Date"":""2016-09-15"",""Units"":1,""Revenue"":325.4475,""OrderLine"":2},{""ProductID"":936,""Date"":""2016-09-15"",""Units"":1,""Revenue"":498.6975,""OrderLine"":3}]"
+2016-09-15,3070,Australia,25973,"[{""ProductID"":443,""Date"":""2016-09-15"",""Units"":2,""Revenue"":1581.825,""OrderLine"":1},{""ProductID"":740,""Date"":""2016-09-15"",""Units"":1,""Revenue"":167.9475,""OrderLine"":2},{""ProductID"":726,""Date"":""2016-09-15"",""Units"":1,""Revenue"":115.4475,""OrderLine"":3}]"
+2016-09-15,4671,Australia,26626,"[{""ProductID"":609,""Date"":""2016-09-15"",""Units"":1,""Revenue"":778.8375,""OrderLine"":1},{""ProductID"":2081,""Date"":""2016-09-15"",""Units"":1,""Revenue"":220.4475,""OrderLine"":2},{""ProductID"":2091,""Date"":""2016-09-15"",""Units"":12,""Revenue"":1826.37,""OrderLine"":3}]"

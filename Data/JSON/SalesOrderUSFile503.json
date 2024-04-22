@@ -1,0 +1,62 @@
+﻿[
+    {
+        "Date": "2020-08-26",
+        "Zip": "93304",
+        "OrderID": 601444,
+        "OrderLines": "[{\"ProductID\":2055,\"Date\":\"2020-08-26\",\"Units\":1,\"Revenue\":569.5725,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2020-08-27",
+        "Zip": "75686",
+        "OrderID": 602047,
+        "OrderLines": "[{\"ProductID\":786,\"Date\":\"2020-08-27\",\"Units\":2,\"Revenue\":115.395,\"OrderLine\":1},{\"ProductID\":785,\"Date\":\"2020-08-27\",\"Units\":2,\"Revenue\":115.395,\"OrderLine\":2}]"
+    },
+    {
+        "Date": "2020-08-28",
+        "Zip": "40004",
+        "OrderID": 602551,
+        "OrderLines": "[{\"ProductID\":559,\"Date\":\"2020-08-28\",\"Units\":2,\"Revenue\":1286.775,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2020-08-26",
+        "Zip": "97487",
+        "OrderID": 601525,
+        "OrderLines": "[{\"ProductID\":1539,\"Date\":\"2020-08-26\",\"Units\":1,\"Revenue\":377.895,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2020-08-28",
+        "Zip": "33323",
+        "OrderID": 602503,
+        "OrderLines": "[{\"ProductID\":915,\"Date\":\"2020-08-28\",\"Units\":1,\"Revenue\":556.4475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2020-08-28",
+        "Zip": "46573",
+        "OrderID": 602599,
+        "OrderLines": "[{\"ProductID\":2219,\"Date\":\"2020-08-28\",\"Units\":1,\"Revenue\":141.6975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2020-08-27",
+        "Zip": "42718",
+        "OrderID": 601802,
+        "OrderLines": "[{\"ProductID\":725,\"Date\":\"2020-08-27\",\"Units\":1,\"Revenue\":110.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2020-08-27",
+        "Zip": "47940",
+        "OrderID": 601833,
+        "OrderLines": "[{\"ProductID\":726,\"Date\":\"2020-08-27\",\"Units\":1,\"Revenue\":110.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2020-08-27",
+        "Zip": "73069",
+        "OrderID": 602016,
+        "OrderLines": "[{\"ProductID\":606,\"Date\":\"2020-08-27\",\"Units\":1,\"Revenue\":337.8375,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2020-08-27",
+        "Zip": "91025",
+        "OrderID": 602179,
+        "OrderLines": "[{\"ProductID\":733,\"Date\":\"2020-08-27\",\"Units\":1,\"Revenue\":341.1975,\"OrderLine\":1}]"
+    }
+]

@@ -1,0 +1,10 @@
+﻿Date,Zip,Country,OrderID,OrderLines
+2020-10-31,742-1511,Japan,482489,"[{""ProductID"":726,""Date"":""2020-10-31"",""Units"":1,""Revenue"":110.1975,""OrderLine"":1},{""ProductID"":725,""Date"":""2020-10-31"",""Units"":1,""Revenue"":110.1975,""OrderLine"":2}]"
+2020-10-30,6288,Australia,481846,"[{""ProductID"":2064,""Date"":""2020-10-30"",""Units"":1,""Revenue"":496.0725,""OrderLine"":1}]"
+2020-10-30,5018,Australia,481660,"[{""ProductID"":768,""Date"":""2020-10-30"",""Units"":1,""Revenue"":94.4475,""OrderLine"":1},{""ProductID"":753,""Date"":""2020-10-30"",""Units"":1,""Revenue"":246.6975,""OrderLine"":2},{""ProductID"":767,""Date"":""2020-10-30"",""Units"":1,""Revenue"":94.4475,""OrderLine"":3},{""ProductID"":754,""Date"":""2020-10-30"",""Units"":1,""Revenue"":246.6975,""OrderLine"":4}]"
+2020-10-30,7263,Australia,481988,"[{""ProductID"":2054,""Date"":""2020-10-30"",""Units"":1,""Revenue"":551.1975,""OrderLine"":1},{""ProductID"":2332,""Date"":""2020-10-30"",""Units"":1,""Revenue"":419.9475,""OrderLine"":2}]"
+2020-10-30,5280,Australia,481724,"[{""ProductID"":196,""Date"":""2020-10-30"",""Units"":1,""Revenue"":839.475,""OrderLine"":1},{""ProductID"":758,""Date"":""2020-10-30"",""Units"":1,""Revenue"":73.4475,""OrderLine"":2}]"
+2020-10-30,771-5174,Japan,482176,"[{""ProductID"":785,""Date"":""2020-10-30"",""Units"":1,""Revenue"":57.6975,""OrderLine"":1},{""ProductID"":1964,""Date"":""2020-10-30"",""Units"":1,""Revenue"":89.1975,""OrderLine"":2}]"
+2020-10-30,4564,Australia,481585,"[{""ProductID"":910,""Date"":""2020-10-30"",""Units"":1,""Revenue"":430.4475,""OrderLine"":1}]"
+2020-10-30,6073,Australia,481816,"[{""ProductID"":1182,""Date"":""2020-10-30"",""Units"":1,""Revenue"":157.4475,""OrderLine"":1},{""ProductID"":2359,""Date"":""2020-10-30"",""Units"":1,""Revenue"":430.4475,""OrderLine"":2}]"
+2020-10-30,4868,Australia,481649,"[{""ProductID"":2082,""Date"":""2020-10-30"",""Units"":1,""Revenue"":335.9475,""OrderLine"":1},{""ProductID"":1000,""Date"":""2020-10-30"",""Units"":1,""Revenue"":89.1975,""OrderLine"":2}]"

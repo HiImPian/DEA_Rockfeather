@@ -1,0 +1,56 @@
+﻿[
+    {
+        "Date": "2023-06-03",
+        "Zip": "76308",
+        "OrderID": 1109223,
+        "OrderLines": "[{\"ProductID\":604,\"Date\":\"2023-06-03\",\"Units\":1,\"Revenue\":525.7875,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2023-06-05",
+        "Zip": "83241",
+        "OrderID": 1109773,
+        "OrderLines": "[{\"ProductID\":2359,\"Date\":\"2023-06-05\",\"Units\":1,\"Revenue\":451.4475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2023-06-06",
+        "Zip": "08054",
+        "OrderID": 1110029,
+        "OrderLines": "[{\"ProductID\":791,\"Date\":\"2023-06-06\",\"Units\":1,\"Revenue\":68.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2023-06-05",
+        "Zip": "83442",
+        "OrderID": 1109778,
+        "OrderLines": "[{\"ProductID\":1939,\"Date\":\"2023-06-05\",\"Units\":1,\"Revenue\":293.9475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2023-06-05",
+        "Zip": "54157",
+        "OrderID": 1109603,
+        "OrderLines": "[{\"ProductID\":1484,\"Date\":\"2023-06-05\",\"Units\":1,\"Revenue\":89.145,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2023-06-05",
+        "Zip": "84095",
+        "OrderID": 1109789,
+        "OrderLines": "[{\"ProductID\":1052,\"Date\":\"2023-06-05\",\"Units\":1,\"Revenue\":246.6975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2023-06-05",
+        "Zip": "91910",
+        "OrderID": 1109871,
+        "OrderLines": "[{\"ProductID\":1085,\"Date\":\"2023-06-05\",\"Units\":1,\"Revenue\":89.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2023-06-06",
+        "Zip": "39365",
+        "OrderID": 1110170,
+        "OrderLines": "[{\"ProductID\":660,\"Date\":\"2023-06-06\",\"Units\":1,\"Revenue\":707.7,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2023-06-06",
+        "Zip": "25570",
+        "OrderID": 1110064,
+        "OrderLines": "[{\"ProductID\":2225,\"Date\":\"2023-06-06\",\"Units\":1,\"Revenue\":60.3225,\"OrderLine\":1},{\"ProductID\":2224,\"Date\":\"2023-06-06\",\"Units\":1,\"Revenue\":60.3225,\"OrderLine\":2}]"
+    }
+]

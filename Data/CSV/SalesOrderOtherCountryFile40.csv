@@ -1,0 +1,10 @@
+﻿Date,Zip,Country,OrderID,OrderLines
+2023-10-12,2009,Australia,873478,"[{""ProductID"":675,""Date"":""2023-10-12"",""Units"":1,""Revenue"":655.2,""OrderLine"":1}]"
+2023-10-11,2582,Australia,873000,"[{""ProductID"":808,""Date"":""2023-10-11"",""Units"":1,""Revenue"":330.6975,""OrderLine"":1}]"
+2023-10-11,1487,Australia,872918,"[{""ProductID"":1085,""Date"":""2023-10-11"",""Units"":1,""Revenue"":89.1975,""OrderLine"":1},{""ProductID"":1058,""Date"":""2023-10-11"",""Units"":1,""Revenue"":136.4475,""OrderLine"":2},{""ProductID"":1086,""Date"":""2023-10-11"",""Units"":1,""Revenue"":89.1975,""OrderLine"":3},{""ProductID"":1096,""Date"":""2023-10-11"",""Units"":1,""Revenue"":125.9475,""OrderLine"":4},{""ProductID"":1095,""Date"":""2023-10-11"",""Units"":1,""Revenue"":125.9475,""OrderLine"":5},{""ProductID"":1057,""Date"":""2023-10-11"",""Units"":1,""Revenue"":136.4475,""OrderLine"":6}]"
+2023-10-11,1209,Australia,872904,"[{""ProductID"":2225,""Date"":""2023-10-11"",""Units"":1,""Revenue"":60.3225,""OrderLine"":1}]"
+2023-10-11,2569,Australia,872998,"[{""ProductID"":1229,""Date"":""2023-10-11"",""Units"":1,""Revenue"":257.1975,""OrderLine"":1}]"
+2023-10-11,960-1103,Japan,873392,"[{""ProductID"":1191,""Date"":""2023-10-11"",""Units"":1,""Revenue"":265.0725,""OrderLine"":1}]"
+2023-10-11,4306,Australia,873142,"[{""ProductID"":993,""Date"":""2023-10-11"",""Units"":1,""Revenue"":346.4475,""OrderLine"":1}]"
+2023-10-12,5483,Australia,873761,"[{""ProductID"":1496,""Date"":""2023-10-12"",""Units"":1,""Revenue"":349.02,""OrderLine"":1},{""ProductID"":1495,""Date"":""2023-10-12"",""Units"":1,""Revenue"":349.02,""OrderLine"":2},{""ProductID"":532,""Date"":""2023-10-12"",""Units"":1,""Revenue"":349.02,""OrderLine"":3},{""ProductID"":534,""Date"":""2023-10-12"",""Units"":1,""Revenue"":349.02,""OrderLine"":4},{""ProductID"":535,""Date"":""2023-10-12"",""Units"":1,""Revenue"":349.02,""OrderLine"":5}]"
+2023-10-13,1006,Australia,873987,"[{""ProductID"":3,""Date"":""2023-10-13"",""Units"":1,""Revenue"":871.5,""OrderLine"":1}]"

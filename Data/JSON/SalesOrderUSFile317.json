@@ -1,0 +1,50 @@
+﻿[
+    {
+        "Date": "2021-12-22",
+        "Zip": "91706",
+        "OrderID": 829655,
+        "OrderLines": "[{\"ProductID\":657,\"Date\":\"2021-12-22\",\"Units\":1,\"Revenue\":907.9875,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2021-12-23",
+        "Zip": "35004",
+        "OrderID": 830049,
+        "OrderLines": "[{\"ProductID\":1974,\"Date\":\"2021-12-23\",\"Units\":1,\"Revenue\":57.6975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2021-12-22",
+        "Zip": "91706",
+        "OrderID": 829655,
+        "OrderLines": "[{\"ProductID\":657,\"Date\":\"2021-12-22\",\"Units\":1,\"Revenue\":907.9875,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2021-12-22",
+        "Zip": "38017",
+        "OrderID": 829215,
+        "OrderLines": "[{\"ProductID\":2213,\"Date\":\"2021-12-22\",\"Units\":1,\"Revenue\":89.1975,\"OrderLine\":1},{\"ProductID\":782,\"Date\":\"2021-12-22\",\"Units\":1,\"Revenue\":102.3225,\"OrderLine\":2}]"
+    },
+    {
+        "Date": "2021-12-22",
+        "Zip": "53126",
+        "OrderID": 829314,
+        "OrderLines": "[{\"ProductID\":777,\"Date\":\"2021-12-22\",\"Units\":1,\"Revenue\":115.4475,\"OrderLine\":1},{\"ProductID\":778,\"Date\":\"2021-12-22\",\"Units\":1,\"Revenue\":115.4475,\"OrderLine\":2}]"
+    },
+    {
+        "Date": "2021-12-23",
+        "Zip": "46077",
+        "OrderID": 830159,
+        "OrderLines": "[{\"ProductID\":778,\"Date\":\"2021-12-23\",\"Units\":1,\"Revenue\":115.4475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2021-12-23",
+        "Zip": "35901",
+        "OrderID": 830063,
+        "OrderLines": "[{\"ProductID\":1974,\"Date\":\"2021-12-23\",\"Units\":1,\"Revenue\":57.6975,\"OrderLine\":1},{\"ProductID\":1975,\"Date\":\"2021-12-23\",\"Units\":1,\"Revenue\":57.6975,\"OrderLine\":2}]"
+    },
+    {
+        "Date": "2021-12-22",
+        "Zip": "78611",
+        "OrderID": 829545,
+        "OrderLines": "[{\"ProductID\":1086,\"Date\":\"2021-12-22\",\"Units\":1,\"Revenue\":86.5725,\"OrderLine\":1},{\"ProductID\":1085,\"Date\":\"2021-12-22\",\"Units\":1,\"Revenue\":86.5725,\"OrderLine\":2}]"
+    }
+]

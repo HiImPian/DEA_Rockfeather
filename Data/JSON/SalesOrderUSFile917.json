@@ -1,0 +1,56 @@
+﻿[
+    {
+        "Date": "2017-05-17",
+        "Zip": "33823",
+        "OrderID": 103336,
+        "OrderLines": "[{\"ProductID\":2064,\"Date\":\"2017-05-17\",\"Units\":1,\"Revenue\":493.4475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2017-05-16",
+        "Zip": "55359",
+        "OrderID": 103006,
+        "OrderLines": "[{\"ProductID\":1213,\"Date\":\"2017-05-16\",\"Units\":1,\"Revenue\":566.9475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2017-05-17",
+        "Zip": "33545",
+        "OrderID": 103330,
+        "OrderLines": "[{\"ProductID\":2050,\"Date\":\"2017-05-17\",\"Units\":1,\"Revenue\":501.3225,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2017-05-16",
+        "Zip": "63080",
+        "OrderID": 103026,
+        "OrderLines": "[{\"ProductID\":2284,\"Date\":\"2017-05-16\",\"Units\":1,\"Revenue\":299.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2017-05-17",
+        "Zip": "33706",
+        "OrderID": 103334,
+        "OrderLines": "[{\"ProductID\":2091,\"Date\":\"2017-05-17\",\"Units\":1,\"Revenue\":154.8225,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2017-05-16",
+        "Zip": "06614",
+        "OrderID": 102833,
+        "OrderLines": "[{\"ProductID\":767,\"Date\":\"2017-05-16\",\"Units\":1,\"Revenue\":104.9475,\"OrderLine\":1},{\"ProductID\":768,\"Date\":\"2017-05-16\",\"Units\":1,\"Revenue\":104.9475,\"OrderLine\":2}]"
+    },
+    {
+        "Date": "2017-05-16",
+        "Zip": "70605",
+        "OrderID": 103053,
+        "OrderLines": "[{\"ProductID\":837,\"Date\":\"2017-05-16\",\"Units\":1,\"Revenue\":813.6975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2017-05-16",
+        "Zip": "68123",
+        "OrderID": 103046,
+        "OrderLines": "[{\"ProductID\":910,\"Date\":\"2017-05-16\",\"Units\":1,\"Revenue\":414.6975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2017-05-15",
+        "Zip": "99709",
+        "OrderID": 102807,
+        "OrderLines": "[{\"ProductID\":396,\"Date\":\"2017-05-15\",\"Units\":1,\"Revenue\":865.725,\"OrderLine\":1}]"
+    }
+]

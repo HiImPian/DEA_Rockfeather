@@ -1,0 +1,44 @@
+﻿[
+    {
+        "Date": "2022-08-16",
+        "Zip": "82601",
+        "OrderID": 956947,
+        "OrderLines": "[{\"ProductID\":1884,\"Date\":\"2022-08-16\",\"Units\":1,\"Revenue\":821.5725,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-08-13",
+        "Zip": "53960",
+        "OrderID": 955742,
+        "OrderLines": "[{\"ProductID\":1809,\"Date\":\"2022-08-13\",\"Units\":1,\"Revenue\":220.4475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-08-16",
+        "Zip": "65074",
+        "OrderID": 956824,
+        "OrderLines": "[{\"ProductID\":1892,\"Date\":\"2022-08-16\",\"Units\":1,\"Revenue\":929.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-08-15",
+        "Zip": "29118",
+        "OrderID": 955984,
+        "OrderLines": "[{\"ProductID\":1819,\"Date\":\"2022-08-15\",\"Units\":1,\"Revenue\":257.1975,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-08-12",
+        "Zip": "89122",
+        "OrderID": 955537,
+        "OrderLines": "[{\"ProductID\":604,\"Date\":\"2022-08-12\",\"Units\":1,\"Revenue\":498.4875,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-08-15",
+        "Zip": "42544",
+        "OrderID": 956121,
+        "OrderLines": "[{\"ProductID\":927,\"Date\":\"2022-08-15\",\"Units\":1,\"Revenue\":461.9475,\"OrderLine\":1}]"
+    },
+    {
+        "Date": "2022-08-16",
+        "Zip": "20841",
+        "OrderID": 956590,
+        "OrderLines": "[{\"ProductID\":2235,\"Date\":\"2022-08-16\",\"Units\":1,\"Revenue\":65.5725,\"OrderLine\":1}]"
+    }
+]

@@ -1,0 +1,10 @@
+﻿Date,Zip,Country,OrderID,OrderLines
+2017-09-13,745-0641,Japan,101866,"[{""ProductID"":631,""Date"":""2017-09-13"",""Units"":1,""Revenue"":346.2375,""OrderLine"":1}]"
+2017-09-13,742-0314,Japan,101859,"[{""ProductID"":1008,""Date"":""2017-09-13"",""Units"":1,""Revenue"":236.1975,""OrderLine"":1}]"
+2017-09-12,500001,Nigeria,101525,"[{""ProductID"":740,""Date"":""2017-09-12"",""Units"":1,""Revenue"":173.2,""OrderLine"":1},{""ProductID"":2128,""Date"":""2017-09-12"",""Units"":1,""Revenue"":403.99,""OrderLine"":2},{""ProductID"":990,""Date"":""2017-09-12"",""Units"":1,""Revenue"":440.95,""OrderLine"":3},{""ProductID"":1961,""Date"":""2017-09-12"",""Units"":1,""Revenue"":97.07,""OrderLine"":4},{""ProductID"":475,""Date"":""2017-09-12"",""Units"":1,""Revenue"":996.45,""OrderLine"":5},{""ProductID"":921,""Date"":""2017-09-12"",""Units"":1,""Revenue"":524.95,""OrderLine"":6},{""ProductID"":1061,""Date"":""2017-09-12"",""Units"":1,""Revenue"":141.7,""OrderLine"":7},{""ProductID"":631,""Date"":""2017-09-12"",""Units"":1,""Revenue"":351.49,""OrderLine"":8},{""ProductID"":120,""Date"":""2017-09-12"",""Units"":1,""Revenue"":839.48,""OrderLine"":9},{""ProductID"":1975,""Date"":""2017-09-12"",""Units"":1,""Revenue"":55.07,""OrderLine"":10},{""ProductID"":396,""Date"":""2017-09-12"",""Units"":1,""Revenue"":876.49,""OrderLine"":11}]"
+2017-09-14,8051,Australia,102149,"[{""ProductID"":2240,""Date"":""2017-09-14"",""Units"":1,""Revenue"":86.5725,""OrderLine"":1}]"
+2017-09-13,53783,Germany,101835,"[{""ProductID"":475,""Date"":""2017-09-13"",""Units"":1,""Revenue"":996.45,""OrderLine"":1}]"
+2017-09-13,3911,Australia,101698,"[{""ProductID"":769,""Date"":""2017-09-13"",""Units"":1,""Revenue"":257.1975,""OrderLine"":1}]"
+2017-09-13,4670,Australia,101731,"[{""ProductID"":2373,""Date"":""2017-09-13"",""Units"":1,""Revenue"":556.4475,""OrderLine"":1}]"
+2017-09-10,1314,Australia,101133,"[{""ProductID"":2070,""Date"":""2017-09-10"",""Units"":1,""Revenue"":522.3225,""OrderLine"":1}]"
+2017-09-13,47058,Germany,101825,"[{""ProductID"":606,""Date"":""2017-09-13"",""Units"":1,""Revenue"":317.89,""OrderLine"":1}]"
