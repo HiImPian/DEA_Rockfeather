@@ -1,0 +1,2 @@
+SELECT *
+FROM dbo.product_sales_avro;
