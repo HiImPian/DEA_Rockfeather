@@ -72,7 +72,7 @@ WITH
         SELECT *
         FROM filtered_product_sales_avro
     ), 
-    -- opened the json column into multiple other columns of a row a
+    -- opened the json column into multiple other columns of a row 
     json_opened_product_sales AS(
         SELECT 
             cps.Date, 
@@ -91,9 +91,9 @@ WITH
 SELECT
     TOP (1) -- TOP (1) instead of LIMIT 1 at the end of the query because SQL Server does not recognize LIMIT but TOP instead
     Zip, 
-    SUM(Revenue)/COUNT(OrderID) AS SalesPerOrder
+    SUM(Revenue)/COUNT(OrderID) AS SalesPerOrder -- sum the revenue per order
 FROM json_opened_product_sales
 GROUP BY Zip
 ORDER BY SalesPerOrder DESC; -- DESC to rank from highest SalesPerOrder to lowest
 
--- Ultimately, the Zip code with the highest amount of sales per order is 6174, with a total of sales per order of 3148,74
+-- Ultimately, the Zip code with the highest amount of sales per order is 68005, with a total of sales per order of 1495,9875
