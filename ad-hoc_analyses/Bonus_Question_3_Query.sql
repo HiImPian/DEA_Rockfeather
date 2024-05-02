@@ -90,25 +90,25 @@ WITH
             (YTD_Revenue - PY_YTD_Revenue)/PY_YTD_Revenue AS YTD_Growth_Since_PY
         FROM unsorted_country_monthly_YTD_PY_YTD_Revenue
         WHERE PY_YTD_Revenue IS NOT NULL
+    ), 
+    highest_monthly_YTD_growth_since_PY AS (
+        SELECT
+            Year, 
+            Month,
+            MAX(YTD_Growth_Since_PY) AS Highest_YTD_Growth_Since_PY
+        FROM unsorted_country_monthly_YTD_growth_since_PY
+        GROUP BY Year, Month
     )
 
--- because there is no previous year for 2016, the final results won't have the month in 2016
-
--- country_monthly_YTD_revenue
-/* 
-SELECT 
-    Year, 
-    Month, 
-    Country, 
-    YTD_Revenue
-FROM unsorted_country_monthly_YTD_revenue
-ORDER BY Country, Year, Month; 
-*/
 
 SELECT
-    Year, 
-    Month, 
-    Country, 
-    MAX(YTD_Growth_Since_PY) OVER (ORDER BY Year, Month) AS Highest_YTD_Growth_Since_PY
-FROM unsorted_country_monthly_YTD_growth_since_PY
-ORDER BY Country, Year, Month;
+    ucm.Year, 
+    ucm.Month, 
+    ucm.Country
+FROM unsorted_country_monthly_YTD_growth_since_PY AS ucm 
+INNER JOIN highest_monthly_YTD_growth_since_PY AS hm
+ON 
+    ucm.Year = hm.Year AND 
+    ucm.Month = hm.Month AND
+    ucm.YTD_Growth_Since_PY = hm.Highest_YTD_Growth_Since_PY
+ORDER BY ucm.Year, ucm.Month; 
