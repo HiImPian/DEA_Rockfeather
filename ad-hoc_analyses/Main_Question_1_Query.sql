@@ -86,8 +86,6 @@ WITH
         CROSS APPLY OPENJSON(OrderLines) AS x
     )
 
--- creating temporary table to define the column data types appropriately because after 
-
 SELECT
     TOP (1) -- TOP (1) instead of LIMIT 1 at the end of the query because SQL Server does not recognize LIMIT but TOP instead
     Zip, 
